@@ -15,5 +15,5 @@ pycryptodomex
 ```
 * A steam account (any steam account)
 # How to run
-* Install python dependencies ``pip -r requirements.txt``
+* Install python dependencies ``pip install -r requirements.txt``
 * Run the file ``main.py``

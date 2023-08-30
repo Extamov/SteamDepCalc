@@ -4,9 +4,9 @@ import re
 import os
 from time import time, sleep
 from urllib.parse import quote
-from libs.tabulate import tabulate
-from libs.connection import Connection
-from libs.currencies import CURRENCIES, currency_string
+from tabulate import tabulate
+from .connection import Connection
+from .currencies import CURRENCIES, currency_string
 
 async def main():
     print("Steam Wallet Deposit Calculator")
@@ -63,7 +63,6 @@ async def main():
         os.system(f"title Fetching cs.money prices: #{i}")
         data = json.loads(await connection.get_text("https://inventories.cs.money/5.0/load_bots_inventory/730", params={
             "hasTradeLock": "false",
-            "isMarket": "false",
             "limit": 60,
             "minPrice": min_price*1.3,
             "maxPrice": max_price*1.3,
@@ -178,11 +177,14 @@ async def main():
     os.system("clear" if os.name == "posix" else "cls")
     # os.system(f"mode con: cols={beautiful_table.index('╕') + 1} lines={len(table[:17])*2 + 2}")
     os.system("title Steam skins conversion table results")
-    with open("results.txt", "w", encoding="utf-8") as f:
+    with open("results.log", "w", encoding="utf-8") as f:
         f.write(full_beautiful_table)
     print(beautiful_table)
 
-if __name__ == "__main__":
+def entrypoint():
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
     asyncio.run(main())
     sleep(2000000000)
+
+if __name__ == "__main__":
+    entrypoint()

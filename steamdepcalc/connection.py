@@ -1,10 +1,12 @@
 import asyncio
-from aiohttp import ClientSession, ClientTimeout, ClientConnectionError, ClientResponse
+from aiohttp import ClientSession, ClientTimeout, ClientConnectionError, ClientResponse, TCPConnector
 from yarl import URL
+import sys
 from typing import Any
 from http.cookies import SimpleCookie
 from urllib.parse import unquote
-from os.path import isfile
+from os import makedirs
+from os.path import isfile, expandvars, join
 from .encryption import system_encrypt, system_decrypt
 
 
@@ -14,6 +16,7 @@ class Connection:
         self.logged_in = False
         self.sess = ClientSession(
             timeout=ClientTimeout(total=5),
+            connector=TCPConnector(ttl_dns_cache=300),
             headers={
                 "Accept": "*/*",
                 "Sec-Ch-Ua": '"Not.A/Brand";v="8", "Chromium";v="115"',
@@ -30,8 +33,18 @@ class Connection:
         if not self.logged_in:
             return False
 
+        cookie_path = ""
+        if sys.platform in ["win32", "cygwin", "msys"]:
+            cookie_path = join(expandvars("%AppData%"), "steamdepcalc")
+        elif sys.platform == "darwin":
+            cookie_path = join(expandvars("$HOME"), "Library", "Application Support", "steamdepcalc")
+        elif sys.platform.startswith("linux"):
+            cookie_path = join(expandvars("$HOME"), ".config", "steamdepcalc")
+
+        makedirs(cookie_path, exist_ok=True)
+
         try:
-            with open("cookie", "wb") as f:
+            with open(join(cookie_path, "cookie"), "wb") as f:
                 cookie_string = self.sess.cookie_jar.filter_cookies("https://steamcommunity.com").output(None, "", ";")
                 encrypted_cookie_string = system_encrypt(cookie_string.encode("utf-8"))
                 f.write(encrypted_cookie_string)
@@ -111,7 +124,7 @@ class Connection:
             print("This is because of steam's strict api rate limits.")
             print("The cookie will be saved locally encrypted using device and OS information.")
             print("In order to get the cookie, login at")
-            print("https://steamcommunity.com/ -> F12 -> F5 -> Network -> go to the first request -> copy the 'cookie' string value.")
+            print("https://steamcommunity.com/ -> F12 -> F5 -> Network -> go to the first request -> 'Headers' section -> copy 'cookie's value.")
             cookie_string = input("Please insert your steam cookie here:").strip()
         else:
             try:

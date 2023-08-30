@@ -7,13 +7,7 @@ With this script you can find the best skins to buy from the 3rd party site and 
 # Requirements
 The requirements for the script are:
 * Python 3
-* The following python dependencies
-```
-asyncio
-aiohttp
-pycryptodomex
-```
 * A steam account (any steam account)
-# How to run
-* Install python dependencies ``pip install -r requirements.txt``
-* Run the file ``main.py``
+# How to install and run
+* Install the script by running the command (As admin) ``python -m pip install git+https://github.com/Extamov/SteamDepCalc.git``
+* Run the script ``steamdepcalc``

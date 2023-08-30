@@ -2,10 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.egg-info
+build
 
 # Logs
 *.log
 
 # Files created by the script
 cookie
-results.txt

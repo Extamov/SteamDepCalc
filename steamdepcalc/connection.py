@@ -29,10 +29,7 @@ class Connection:
             },
         )
 
-    def save_steam_cookie(self):
-        if not self.logged_in:
-            return False
-
+    def _cookie_path(self):
         cookie_path = ""
         if sys.platform in ["win32", "cygwin", "msys"]:
             cookie_path = join(expandvars("%AppData%"), "steamdepcalc")
@@ -42,9 +39,14 @@ class Connection:
             cookie_path = join(expandvars("$HOME"), ".config", "steamdepcalc")
 
         makedirs(cookie_path, exist_ok=True)
+        return join(cookie_path, "cookie")
+
+    def save_steam_cookie(self):
+        if not self.logged_in:
+            return False
 
         try:
-            with open(join(cookie_path, "cookie"), "wb") as f:
+            with open(self._cookie_path(), "wb") as f:
                 cookie_string = self.sess.cookie_jar.filter_cookies("https://steamcommunity.com").output(None, "", ";")
                 encrypted_cookie_string = system_encrypt(cookie_string.encode("utf-8"))
                 f.write(encrypted_cookie_string)
@@ -119,7 +121,10 @@ class Connection:
     async def steam_auto_auth(self):
         cookie_string = ""
         other_error = False
-        if not isfile("cookie"):
+
+        cookie_path = self._cookie_path()
+
+        if not isfile(cookie_path):
             print("In order to proceed, steam authentication is required.")
             print("This is because of steam's strict api rate limits.")
             print("The cookie will be saved locally encrypted using device and OS information.")
@@ -128,7 +133,7 @@ class Connection:
             cookie_string = input("Please insert your steam cookie here:").strip()
         else:
             try:
-                with open("cookie", "rb") as f:
+                with open(cookie_path, "rb") as f:
                     cookie_string = system_decrypt(f.read()).decode("utf-8")
             except (OSError, UnicodeDecodeError):
                 other_error = True

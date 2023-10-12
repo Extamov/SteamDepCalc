@@ -1,4 +1,4 @@
 asyncio
-aiohttp
+aiohttp[speedups]
 pycryptodomex
 tabulate

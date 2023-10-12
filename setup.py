@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
     name="steamdepcalc",
     description="A script that calculates best steam skins for buying from 3rd party and sell in steam.",
-    version="0.0.2",
+    version="0.0.3",
     author="Extamov",
     license="GPL-3.0",
     packages=setuptools.find_packages("."),

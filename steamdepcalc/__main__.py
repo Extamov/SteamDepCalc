@@ -2,11 +2,15 @@ import asyncio
 import json
 import re
 import os
+import shutil
+from os.path import join, isfile
 from time import time, sleep
 from urllib.parse import quote
 from tabulate import tabulate
 from .connection import Connection
 from .currencies import CURRENCIES, currency_string
+from .essential import app_path
+from importlib import resources
 
 async def main():
     print("Steam Wallet Deposit Calculator")
@@ -98,30 +102,40 @@ async def main():
         await asyncio.sleep(wait_time)
 
     # =================================== steam item id fetch ===================================
-    async def the_worker(item, semaphore):
-        initial_metadata = await connection.get_text(f"https://steamcommunity.com/market/listings/730/{quote(item['name'], safe='')}", headers={
-                "Referer": "https://steamcommunity.com/market/search?q=",
-        })
-        item_steam_id = ""
-        try:
-            item_steam_id = re.findall(r"Market_LoadOrderSpread\( (\d+?) \);", initial_metadata)[0]
-        except IndexError:
-            print(f"Error: Failed to fetch id of '{item['name']}'")
-            semaphore.release()
-            return
-        item["id"] = item_steam_id
-        semaphore.release()
 
-    tasks = []
-    semaphore = asyncio.Semaphore(6)
+    id_list_path = join(app_path(), "steam_id_data")
+
+    if not isfile(id_list_path):
+        shutil.copyfile(join(resources.files("steamdepcalc"), "default_steam_id_data.txt"), id_list_path)
+
+    item_id_hashtable = {}
+    with open(id_list_path, "r", encoding="utf-8") as f:
+        id_list_data = [x.split("//") for x in f.read().split("\n")]
+        for steam_item in id_list_data:
+            item_id_hashtable[steam_item[0]] = steam_item[1]
+
     i = 0
     for item in new_data.values():
         os.system(f"title Fetching steam item ids: {i}/{len(new_data)}")
-        await semaphore.acquire()
-        tasks += [asyncio.create_task(the_worker(item, semaphore))]
+
+        if item["name"] not in item_id_hashtable:
+            initial_metadata = await connection.get_text(f"https://steamcommunity.com/market/listings/730/{quote(item['name'], safe='')}", headers={
+                    "Referer": "https://steamcommunity.com/market/search?q=",
+            })
+
+            try:
+                item_steam_id = re.findall(r"Market_LoadOrderSpread\( (\d+?) \);", initial_metadata)[0]
+            except IndexError:
+                print(f"Error: Failed to fetch id of '{item['name']}'")
+                continue
+
+            item_id_hashtable[item["name"]] = item_steam_id
+
+        item["id"] = item_id_hashtable[item["name"]]
         i += 1
 
-    await asyncio.wait(tasks)
+    with open(id_list_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(["//".join(x) for x in item_id_hashtable.items()]))
 
     # ================================== steam item price fetch ==================================
 

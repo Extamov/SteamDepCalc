@@ -1,14 +1,12 @@
 import asyncio
 from aiohttp import ClientSession, ClientTimeout, ClientConnectionError, ClientResponse, TCPConnector
 from yarl import URL
-import sys
 from typing import Any
 from http.cookies import SimpleCookie
 from urllib.parse import unquote
-from os import makedirs
-from os.path import isfile, expandvars, join
+from os.path import isfile, join
 from .encryption import system_encrypt, system_decrypt
-
+from .essential import app_path
 
 
 class Connection:
@@ -29,24 +27,12 @@ class Connection:
             },
         )
 
-    def _cookie_path(self):
-        cookie_path = ""
-        if sys.platform in ["win32", "cygwin", "msys"]:
-            cookie_path = join(expandvars("%AppData%"), "steamdepcalc")
-        elif sys.platform == "darwin":
-            cookie_path = join(expandvars("$HOME"), "Library", "Application Support", "steamdepcalc")
-        elif sys.platform.startswith("linux"):
-            cookie_path = join(expandvars("$HOME"), ".config", "steamdepcalc")
-
-        makedirs(cookie_path, exist_ok=True)
-        return join(cookie_path, "cookie")
-
     def save_steam_cookie(self):
         if not self.logged_in:
             return False
 
         try:
-            with open(self._cookie_path(), "wb") as f:
+            with open(join(app_path(), "cookie"), "wb") as f:
                 cookie_string = self.sess.cookie_jar.filter_cookies("https://steamcommunity.com").output(None, "", ";")
                 encrypted_cookie_string = system_encrypt(cookie_string.encode("utf-8"))
                 f.write(encrypted_cookie_string)
@@ -122,7 +108,7 @@ class Connection:
         cookie_string = ""
         other_error = False
 
-        cookie_path = self._cookie_path()
+        cookie_path = join(app_path(), "cookie")
 
         if not isfile(cookie_path):
             print("In order to proceed, steam authentication is required.")

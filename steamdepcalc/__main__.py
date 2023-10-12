@@ -60,6 +60,7 @@ async def main():
 
     i = 0
     while True:
+        t1 = time()
         os.system(f"title Fetching cs.money prices: #{i}")
         data = json.loads(await connection.get_text("https://inventories.cs.money/5.0/load_bots_inventory/730", params={
             "hasTradeLock": "false",
@@ -93,9 +94,10 @@ async def main():
             min_price = data["items"][-1]["price"]
 
         i += 1
+        wait_time = 1.1 - (time() - t1)
+        await asyncio.sleep(wait_time)
 
-    # =================================== cs.money items fetch ===================================
-
+    # =================================== steam item id fetch ===================================
     async def the_worker(item, semaphore):
         initial_metadata = await connection.get_text(f"https://steamcommunity.com/market/listings/730/{quote(item['name'], safe='')}", headers={
                 "Referer": "https://steamcommunity.com/market/search?q=",
@@ -121,7 +123,7 @@ async def main():
 
     await asyncio.wait(tasks)
 
-    # ================================================================================================================
+    # ================================== steam item price fetch ==================================
 
     final_res = []
 
@@ -163,7 +165,7 @@ async def main():
             await asyncio.sleep(wait_time)
         i += 1
 
-    # ================================================================================================================
+    # ================================ calculation results print ================================
 
     await connection.close()
 

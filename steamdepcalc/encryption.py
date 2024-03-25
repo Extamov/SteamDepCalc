@@ -1,6 +1,5 @@
 from subprocess import check_output, CalledProcessError
 import sys
-import winreg
 import hashlib
 from Cryptodome.Cipher import AES
 
@@ -12,6 +11,7 @@ def _read_cmd(cmd):
 
 def _read_reg(path, key_name):
     try:
+        import winreg
         reg_key = winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, path)
         return winreg.QueryValueEx(reg_key, key_name)[0]
     except OSError:
@@ -34,9 +34,9 @@ def _get_special_id():
         ids += [_read_cmd("ioreg -d2 -c IOPlatformExpertDevice | awk -F\\\" '/IOPlatformUUID/{print $(NF-1)}'")]
 
     if sys.platform.startswith("linux"):
-        ids += [_read_file("/var/lib/dbus/machine-id"), _read_file("/etc/machine-id"), _read_file("/proc/self/cgroup"), _read_file("/proc/self/mountinfo")]
+        ids += [_read_file("/etc/machine-id")]
 
-    combined_id = "||<->||".join([x for x in ids if x != None])
+    combined_id = "||<->||".join([x for x in ids if x is not None])
 
     return hashlib.sha256(combined_id.encode("utf-8")).digest()
 

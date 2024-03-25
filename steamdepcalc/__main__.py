@@ -2,6 +2,7 @@ import asyncio
 import json
 import re
 import os
+import sys
 import shutil
 from os.path import join, isfile
 from time import time, sleep
@@ -9,7 +10,7 @@ from urllib.parse import quote
 from tabulate import tabulate
 from .connection import Connection
 from .currencies import CURRENCIES, currency_string
-from .essential import app_path
+from .essential import app_path, set_terminal_title
 from importlib import resources
 
 async def main():
@@ -65,7 +66,7 @@ async def main():
     i = 0
     while True:
         t1 = time()
-        os.system(f"title Fetching cs.money prices: #{i}")
+        set_terminal_title(f"Fetching cs.money prices: #{i}")
         data = json.loads(await connection.get_text("https://inventories.cs.money/5.0/load_bots_inventory/730", params={
             "hasTradeLock": "false",
             "limit": 60,
@@ -116,7 +117,7 @@ async def main():
 
     i = 0
     for item in new_data.values():
-        os.system(f"title Fetching steam item ids: {i}/{len(new_data)}")
+        set_terminal_title(f"Fetching steam item ids: {i}/{len(new_data)}")
 
         if item["name"] not in item_id_hashtable:
             initial_metadata = await connection.get_text(f"https://steamcommunity.com/market/listings/730/{quote(item['name'], safe='')}", headers={
@@ -147,7 +148,7 @@ async def main():
             continue
 
         t1 = time()
-        os.system(f"title Fetching steam prices: {i}/{len(new_data)}")
+        set_terminal_title(f"Fetching steam prices: {i}/{len(new_data)}")
 
         data = json.loads(await connection.get_text("https://steamcommunity.com/market/itemordershistogram", params={
             "country": currency[:2],
@@ -192,13 +193,14 @@ async def main():
 
     os.system("clear" if os.name == "posix" else "cls")
     # os.system(f"mode con: cols={beautiful_table.index('╕') + 1} lines={len(table[:17])*2 + 2}")
-    os.system("title Steam skins conversion table results")
+    set_terminal_title("Steam skins conversion table results")
     with open("results.log", "w", encoding="utf-8") as f:
         f.write(full_beautiful_table)
     print(beautiful_table)
 
 def entrypoint():
-    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+    if sys.platform in ["win32", "cygwin", "msys"]:
+        asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
     asyncio.run(main())
     sleep(2000000000)
 

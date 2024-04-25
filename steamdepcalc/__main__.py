@@ -17,7 +17,6 @@ async def main():
     print("Steam Wallet Deposit Calculator")
     print("It calculates prices of buying steam skins from 3rd party services into steam")
     print("Made for skins from cs.money")
-    print("Beware that cs.money has 30% discount on deposits which is counted in the calculations")
     print("Make sure to close any steam page that checks item prices to minimize rate limit")
 
 
@@ -36,7 +35,7 @@ async def main():
             pass
 
     preset = 0
-    presets = [[1, 12, 14, 11, 8, 9, 18, 19], [10], [5, 6, 7, 4, 3]]
+    presets = [[1, 12, 14, 11, 8, 9, 18, 19, 20], [10], [5, 6, 7, 4, 3, 2, 13]]
     while preset not in [1, 2, 3]:
         print("[1]: All skins except guns and stickers [Fast]")
         print("[2]: All skins except guns [Regular]")
@@ -74,7 +73,7 @@ async def main():
             "maxPrice": max_price*1.3,
             "offset": i*60,
             "order": "asc",
-            "priceWithBonus": 30,
+            "priceWithBonus": 0,
             "sort": "price",
             "type": item_types,
             "withStack": "true",
@@ -86,7 +85,12 @@ async def main():
         if "items" in data:
             for item in data["items"]:
                 item_name = item["fullName"]
-                item_price = item["priceWithBonus"]
+                item_price = item["price"]
+
+                # Some items contain more information in the name which doesn't appear on steam
+                if " Doppler" in item_name:
+                    item_name = re.sub(r" Doppler (Phase \d|Emerald|Sapphire|Ruby)", " Doppler", item_name)
+
                 if (item_name not in new_data) or (item_price < new_data[item_name]["price"]):
                     new_data[item_name] = { "name": item_name, "price": item_price }
         elif ("error" not in data) or (data["error"] != 2):
@@ -96,7 +100,7 @@ async def main():
 
         if i == 60:
             i = 0
-            min_price = data["items"][-1]["price"]
+            min_price = data["items"][-1]["price"] - 0.01
 
         i += 1
         wait_time = 1.1 - (time() - t1)
@@ -121,7 +125,7 @@ async def main():
 
         if item["name"] not in item_id_hashtable:
             initial_metadata = await connection.get_text(f"https://steamcommunity.com/market/listings/730/{quote(item['name'], safe='')}", headers={
-                    "Referer": "https://steamcommunity.com/market/search?q=",
+                "Referer": "https://steamcommunity.com/market/search?q=",
             })
 
             try:

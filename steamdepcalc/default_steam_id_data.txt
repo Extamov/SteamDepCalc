@@ -3,6 +3,456 @@
 'The Doctor' Romanov | Sabre//176096416
 'Two Times' McCoy | TACP Cavalry//176209278
 'Two Times' McCoy | USAF TACP//176096507
+★ Bayonet | Autotronic (Field-Tested)//156151891
+★ Bayonet | Boreal Forest (Field-Tested)//1322376
+★ Bayonet | Bright Water (Field-Tested)//156239407
+★ Bayonet | Crimson Web (Minimal Wear)//1336838
+★ Bayonet | Fade (Factory New)//1336989
+★ Bayonet | Forest DDPAT (Field-Tested)//1321989
+★ Bayonet | Lore (Field-Tested)//156181143
+★ Bayonet | Marble Fade (Factory New)//29482177
+★ Bayonet | Night (Field-Tested)//1322630
+★ Bayonet | Rust Coat (Battle-Scarred)//29207459
+★ Bayonet | Scorched (Field-Tested)//1321807
+★ Bayonet | Slaughter (Field-Tested)//1332400
+★ Bayonet | Tiger Tooth (Minimal Wear)//31377654
+★ Bloodhound Gloves | Bronzed (Battle-Scarred)//175855076
+★ Bloodhound Gloves | Bronzed (Field-Tested)//175854384
+★ Bloodhound Gloves | Bronzed (Well-Worn)//175854948
+★ Bloodhound Gloves | Charred (Field-Tested)//175854647
+★ Bloodhound Gloves | Charred (Well-Worn)//175857384
+★ Bloodhound Gloves | Guerrilla (Battle-Scarred)//175855213
+★ Bloodhound Gloves | Guerrilla (Field-Tested)//175854564
+★ Bloodhound Gloves | Snakebite (Battle-Scarred)//175854914
+★ Bloodhound Gloves | Snakebite (Field-Tested)//175854483
+★ Bloodhound Gloves | Snakebite (Well-Worn)//175854844
+★ Bowie Knife | Autotronic (Factory New)//176263285
+★ Bowie Knife | Autotronic (Minimal Wear)//176263236
+★ Bowie Knife | Bright Water (Field-Tested)//176263235
+★ Bowie Knife | Damascus Steel (Field-Tested)//175880668
+★ Bowie Knife | Damascus Steel (Minimal Wear)//175880953
+★ Bowie Knife | Doppler (Factory New)//175880901
+★ Bowie Knife | Fade (Factory New)//139748202
+★ Bowie Knife | Gamma Doppler (Factory New)//176263223
+★ Bowie Knife | Lore (Minimal Wear)//176263226
+★ Bowie Knife | Marble Fade (Factory New)//175880618
+★ Bowie Knife | Night (Battle-Scarred)//139833938
+★ Bowie Knife | Night (Field-Tested)//139673222
+★ Bowie Knife | Rust Coat (Battle-Scarred)//175880463
+★ Bowie Knife | Scorched (Field-Tested)//139691732
+★ Bowie Knife | Slaughter (Factory New)//139924030
+★ Bowie Knife | Stained (Battle-Scarred)//139732200
+★ Bowie Knife | Stained (Field-Tested)//139705922
+★ Bowie Knife | Ultraviolet (Field-Tested)//175880704
+★ Broken Fang Gloves | Jade (Battle-Scarred)//176209831
+★ Broken Fang Gloves | Jade (Field-Tested)//176209636
+★ Broken Fang Gloves | Needle Point (Battle-Scarred)//176209631
+★ Broken Fang Gloves | Needle Point (Field-Tested)//176209671
+★ Broken Fang Gloves | Needle Point (Well-Worn)//176209920
+★ Broken Fang Gloves | Unhinged (Well-Worn)//176209810
+★ Broken Fang Gloves | Yellow-banded (Battle-Scarred)//176209793
+★ Broken Fang Gloves | Yellow-banded (Field-Tested)//176209544
+★ Broken Fang Gloves | Yellow-banded (Well-Worn)//176209845
+★ Butterfly Knife | Black Laminate (Field-Tested)//176263256
+★ Butterfly Knife | Forest DDPAT (Field-Tested)//14963011
+★ Butterfly Knife | Freehand (Field-Tested)//176263246
+★ Butterfly Knife | Lore (Battle-Scarred)//176263213
+★ Butterfly Knife | Scorched (Field-Tested)//14974565
+★ Butterfly Knife | Stained (Field-Tested)//14963026
+★ Butterfly Knife | Urban Masked (Well-Worn)//15037999
+★ Classic Knife | Blue Steel (Battle-Scarred)//176092055
+★ Classic Knife | Blue Steel (Well-Worn)//176091946
+★ Classic Knife | Boreal Forest (Field-Tested)//176091940
+★ Classic Knife | Case Hardened (Field-Tested)//176092018
+★ Classic Knife | Case Hardened (Well-Worn)//176092002
+★ Classic Knife | Crimson Web (Field-Tested)//176091984
+★ Classic Knife | Crimson Web (Minimal Wear)//176091993
+★ Classic Knife | Fade (Factory New)//176091941
+★ Classic Knife | Night Stripe (Field-Tested)//176092000
+★ Classic Knife | Scorched (Field-Tested)//176091969
+★ Classic Knife | Scorched (Well-Worn)//176091997
+★ Classic Knife | Slaughter (Minimal Wear)//176091983
+★ Classic Knife | Stained (Field-Tested)//176092025
+★ Driver Gloves | Black Tie (Battle-Scarred)//176209656
+★ Driver Gloves | Black Tie (Field-Tested)//176209242
+★ Driver Gloves | Convoy (Battle-Scarred)//175854874
+★ Driver Gloves | Convoy (Field-Tested)//175854491
+★ Driver Gloves | Convoy (Well-Worn)//175855592
+★ Driver Gloves | Crimson Weave (Field-Tested)//175854380
+★ Driver Gloves | Diamondback (Field-Tested)//175854795
+★ Driver Gloves | King Snake (Battle-Scarred)//175967125
+★ Driver Gloves | King Snake (Field-Tested)//175967213
+★ Driver Gloves | Lunar Weave (Field-Tested)//175854386
+★ Driver Gloves | Overtake (Battle-Scarred)//175966935
+★ Driver Gloves | Overtake (Field-Tested)//175967141
+★ Driver Gloves | Overtake (Minimal Wear)//175967433
+★ Driver Gloves | Overtake (Well-Worn)//175966966
+★ Driver Gloves | Queen Jaguar (Battle-Scarred)//176209755
+★ Driver Gloves | Queen Jaguar (Field-Tested)//176209604
+★ Driver Gloves | Queen Jaguar (Minimal Wear)//176209682
+★ Driver Gloves | Queen Jaguar (Well-Worn)//176209590
+★ Driver Gloves | Racing Green (Battle-Scarred)//175967012
+★ Driver Gloves | Racing Green (Field-Tested)//175967075
+★ Driver Gloves | Racing Green (Minimal Wear)//175967244
+★ Driver Gloves | Racing Green (Well-Worn)//175967442
+★ Driver Gloves | Rezan the Red (Battle-Scarred)//176209729
+★ Driver Gloves | Rezan the Red (Field-Tested)//176209665
+★ Driver Gloves | Rezan the Red (Well-Worn)//176209985
+★ Driver Gloves | Snow Leopard (Field-Tested)//176209615
+★ Driver Gloves | Snow Leopard (Minimal Wear)//176209968
+★ Falchion Knife | Case Hardened (Battle-Scarred)//49539759
+★ Falchion Knife | Case Hardened (Minimal Wear)//49440521
+★ Falchion Knife | Crimson Web (Minimal Wear)//49473133
+★ Falchion Knife | Damascus Steel (Minimal Wear)//175880738
+★ Falchion Knife | Doppler (Factory New)//175880775
+★ Falchion Knife | Forest DDPAT (Field-Tested)//49430981
+★ Falchion Knife | Freehand (Factory New)//176263291
+★ Falchion Knife | Gamma Doppler (Factory New)//176263139
+★ Falchion Knife | Night (Field-Tested)//49399565
+★ Falchion Knife | Night (Minimal Wear)//49576393
+★ Falchion Knife | Rust Coat (Battle-Scarred)//175880270
+★ Falchion Knife | Safari Mesh (Battle-Scarred)//49419391
+★ Falchion Knife | Scorched (Battle-Scarred)//49440519
+★ Falchion Knife | Scorched (Field-Tested)//49419456
+★ Falchion Knife | Scorched (Well-Worn)//49576397
+★ Falchion Knife | Slaughter (Field-Tested)//49625799
+★ Falchion Knife | Urban Masked (Field-Tested)//49365699
+★ Flip Knife | Boreal Forest (Minimal Wear)//1322123
+★ Flip Knife | Bright Water (Battle-Scarred)//158075120
+★ Flip Knife | Bright Water (Field-Tested)//156200225
+★ Flip Knife | Case Hardened (Battle-Scarred)//1397881
+★ Flip Knife | Case Hardened (Minimal Wear)//1340661
+★ Flip Knife | Crimson Web (Battle-Scarred)//1341924
+★ Flip Knife | Doppler (Factory New)//29299516
+★ Flip Knife | Fade (Factory New)//1321882
+★ Flip Knife | Freehand (Field-Tested)//156499011
+★ Flip Knife | Gamma Doppler (Factory New)//156249199
+★ Flip Knife | Lore (Field-Tested)//156219676
+★ Flip Knife | Marble Fade (Factory New)//29213035
+★ Flip Knife | Night (Field-Tested)//1322431
+★ Flip Knife | Scorched (Field-Tested)//1322178
+★ Flip Knife | Slaughter (Minimal Wear)//1338620
+★ Flip Knife | Ultraviolet (Battle-Scarred)//29213033
+★ Flip Knife | Ultraviolet (Field-Tested)//29219908
+★ Flip Knife | Urban Masked (Field-Tested)//1332955
+★ Flip Knife | Urban Masked (Minimal Wear)//1322638
+★ Gut Knife | Autotronic (Battle-Scarred)//156522363
+★ Gut Knife | Autotronic (Field-Tested)//156309805
+★ Gut Knife | Autotronic (Well-Worn)//156209793
+★ Gut Knife | Boreal Forest (Field-Tested)//1338682
+★ Gut Knife | Bright Water (Field-Tested)//156280276
+★ Gut Knife | Case Hardened (Field-Tested)//1331370
+★ Gut Knife | Crimson Web (Field-Tested)//1339428
+★ Gut Knife | Doppler (Factory New)//29209299
+★ Gut Knife | Fade (Factory New)//1322108
+★ Gut Knife | Forest DDPAT (Field-Tested)//1322763
+★ Gut Knife | Forest DDPAT (Minimal Wear)//1322768
+★ Gut Knife | Freehand (Field-Tested)//156229248
+★ Gut Knife | Lore (Battle-Scarred)//156737186
+★ Gut Knife | Lore (Field-Tested)//156290239
+★ Gut Knife | Lore (Minimal Wear)//156549575
+★ Gut Knife | Marble Fade (Factory New)//29217385
+★ Gut Knife | Rust Coat (Battle-Scarred)//29285556
+★ Gut Knife | Safari Mesh (Battle-Scarred)//1339378
+★ Gut Knife | Safari Mesh (Field-Tested)//1334343
+★ Gut Knife | Scorched (Battle-Scarred)//1321999
+★ Gut Knife | Scorched (Field-Tested)//1332562
+★ Gut Knife | Slaughter (Minimal Wear)//1322026
+★ Gut Knife | Tiger Tooth (Factory New)//29523660
+★ Gut Knife | Ultraviolet (Field-Tested)//29321552
+★ Gut Knife | Urban Masked (Battle-Scarred)//1413870
+★ Gut Knife | Urban Masked (Field-Tested)//1322656
+★ Hand Wraps | Arboreal (Battle-Scarred)//175966998
+★ Hand Wraps | Arboreal (Field-Tested)//175967046
+★ Hand Wraps | Arboreal (Well-Worn)//175967080
+★ Hand Wraps | Badlands (Field-Tested)//175854638
+★ Hand Wraps | CAUTION! (Field-Tested)//176209693
+★ Hand Wraps | CAUTION! (Well-Worn)//176209776
+★ Hand Wraps | Cobalt Skulls (Battle-Scarred)//175967376
+★ Hand Wraps | Cobalt Skulls (Field-Tested)//175967070
+★ Hand Wraps | Cobalt Skulls (Well-Worn)//175968402
+★ Hand Wraps | Constrictor (Field-Tested)//176209593
+★ Hand Wraps | Constrictor (Minimal Wear)//176209750
+★ Hand Wraps | Desert Shamagh (Battle-Scarred)//176209794
+★ Hand Wraps | Desert Shamagh (Field-Tested)//176209669
+★ Hand Wraps | Desert Shamagh (Minimal Wear)//176209805
+★ Hand Wraps | Desert Shamagh (Well-Worn)//176209752
+★ Hand Wraps | Duct Tape (Battle-Scarred)//175967400
+★ Hand Wraps | Duct Tape (Field-Tested)//175966997
+★ Hand Wraps | Giraffe (Battle-Scarred)//176209713
+★ Hand Wraps | Giraffe (Well-Worn)//176209841
+★ Hand Wraps | Leather (Field-Tested)//175854476
+★ Hand Wraps | Overprint (Battle-Scarred)//175967256
+★ Hand Wraps | Overprint (Field-Tested)//175967236
+★ Hand Wraps | Overprint (Minimal Wear)//175967859
+★ Hand Wraps | Slaughter (Field-Tested)//175854580
+★ Hand Wraps | Slaughter (Minimal Wear)//175854463
+★ Hand Wraps | Spruce DDPAT (Battle-Scarred)//175854838
+★ Huntsman Knife | Blue Steel (Minimal Wear)//9028147
+★ Huntsman Knife | Blue Steel (Well-Worn)//9030353
+★ Huntsman Knife | Bright Water (Minimal Wear)//176262680
+★ Huntsman Knife | Case Hardened (Minimal Wear)//8996299
+★ Huntsman Knife | Case Hardened (Well-Worn)//8993300
+★ Huntsman Knife | Damascus Steel (Field-Tested)//175880559
+★ Huntsman Knife | Damascus Steel (Minimal Wear)//175880718
+★ Huntsman Knife | Doppler (Factory New)//175880616
+★ Huntsman Knife | Fade (Factory New)//9015838
+★ Huntsman Knife | Freehand (Factory New)//176263163
+★ Huntsman Knife | Freehand (Field-Tested)//176263200
+★ Huntsman Knife | Marble Fade (Factory New)//175880992
+★ Huntsman Knife | Night (Minimal Wear)//9007437
+★ Huntsman Knife | Rust Coat (Battle-Scarred)//175880622
+★ Huntsman Knife | Safari Mesh (Battle-Scarred)//9023337
+★ Huntsman Knife | Safari Mesh (Field-Tested)//8989628
+★ Huntsman Knife | Slaughter (Factory New)//9028595
+★ Huntsman Knife | Slaughter (Minimal Wear)//9003689
+★ Huntsman Knife | Stained (Minimal Wear)//8996328
+★ Huntsman Knife | Ultraviolet (Field-Tested)//175880634
+★ Huntsman Knife | Ultraviolet (Well-Worn)//175880577
+★ Huntsman Knife | Urban Masked (Field-Tested)//8993610
+★ Huntsman Knife//8994376
+★ Hydra Gloves | Case Hardened (Field-Tested)//175967004
+★ Hydra Gloves | Case Hardened (Minimal Wear)//175967347
+★ Hydra Gloves | Case Hardened (Well-Worn)//175967494
+★ Hydra Gloves | Emerald (Battle-Scarred)//175967562
+★ Hydra Gloves | Emerald (Field-Tested)//175967181
+★ Hydra Gloves | Emerald (Minimal Wear)//175967466
+★ Hydra Gloves | Mangrove (Battle-Scarred)//175967193
+★ Hydra Gloves | Mangrove (Field-Tested)//175966981
+★ Hydra Gloves | Mangrove (Minimal Wear)//175967248
+★ Hydra Gloves | Mangrove (Well-Worn)//175967359
+★ Hydra Gloves | Rattler (Battle-Scarred)//175967235
+★ Hydra Gloves | Rattler (Field-Tested)//175966953
+★ Hydra Gloves | Rattler (Minimal Wear)//175967076
+★ Hydra Gloves | Rattler (Well-Worn)//175968206
+★ Karambit | Blue Steel (Field-Tested)//1322531
+★ Karambit | Boreal Forest (Field-Tested)//1332354
+★ Karambit | Case Hardened (Field-Tested)//1321684
+★ Karambit | Crimson Web (Field-Tested)//1342035
+★ Karambit | Forest DDPAT (Field-Tested)//1321812
+★ Karambit | Freehand (Field-Tested)//156372994
+★ Karambit | Freehand (Minimal Wear)//156866122
+★ Karambit | Freehand (Well-Worn)//156605286
+★ Karambit | Lore (Field-Tested)//157364817
+★ Karambit | Lore (Well-Worn)//159546537
+★ Karambit | Night (Field-Tested)//1321685
+★ Karambit | Rust Coat (Battle-Scarred)//29209308
+★ Karambit | Safari Mesh (Minimal Wear)//1338073
+★ Karambit | Scorched (Field-Tested)//1322023
+★ Karambit | Ultraviolet (Field-Tested)//29532334
+★ Karambit | Urban Masked (Field-Tested)//1321992
+★ M9 Bayonet | Blue Steel (Minimal Wear)//1355479
+★ M9 Bayonet | Boreal Forest (Field-Tested)//1328369
+★ M9 Bayonet | Case Hardened (Battle-Scarred)//1322063
+★ M9 Bayonet | Crimson Web (Field-Tested)//1322730
+★ M9 Bayonet | Damascus Steel (Field-Tested)//29415460
+★ M9 Bayonet | Damascus Steel (Minimal Wear)//29550979
+★ M9 Bayonet | Forest DDPAT (Field-Tested)//1321661
+★ M9 Bayonet | Freehand (Field-Tested)//156249203
+★ M9 Bayonet | Night (Field-Tested)//1339688
+★ M9 Bayonet | Rust Coat (Battle-Scarred)//29207463
+★ M9 Bayonet | Scorched (Field-Tested)//1322077
+★ M9 Bayonet | Stained (Field-Tested)//1338764
+★ M9 Bayonet | Tiger Tooth (Factory New)//29330494
+★ M9 Bayonet | Ultraviolet (Field-Tested)//29389708
+★ M9 Bayonet | Urban Masked (Field-Tested)//1322181
+★ Moto Gloves | 3rd Commando Company (Battle-Scarred)//176209710
+★ Moto Gloves | 3rd Commando Company (Field-Tested)//176209674
+★ Moto Gloves | 3rd Commando Company (Minimal Wear)//176209775
+★ Moto Gloves | 3rd Commando Company (Well-Worn)//176209827
+★ Moto Gloves | Blood Pressure (Battle-Scarred)//176209711
+★ Moto Gloves | Boom! (Battle-Scarred)//175854972
+★ Moto Gloves | Cool Mint (Battle-Scarred)//175854629
+★ Moto Gloves | Eclipse (Battle-Scarred)//175854591
+★ Moto Gloves | Finish Line (Field-Tested)//176209712
+★ Moto Gloves | Polygon (Battle-Scarred)//175967547
+★ Moto Gloves | Polygon (Field-Tested)//175967083
+★ Moto Gloves | Polygon (Minimal Wear)//175967238
+★ Moto Gloves | Polygon (Well-Worn)//175967101
+★ Moto Gloves | POW! (Field-Tested)//175967006
+★ Moto Gloves | POW! (Minimal Wear)//175967164
+★ Moto Gloves | POW! (Well-Worn)//175970224
+★ Moto Gloves | Smoke Out (Battle-Scarred)//176209740
+★ Moto Gloves | Smoke Out (Field-Tested)//176209708
+★ Moto Gloves | Smoke Out (Well-Worn)//176209715
+★ Moto Gloves | Transport (Battle-Scarred)//175967292
+★ Moto Gloves | Transport (Field-Tested)//175966856
+★ Moto Gloves | Transport (Well-Worn)//175967708
+★ Moto Gloves | Turtle (Battle-Scarred)//175967363
+★ Moto Gloves | Turtle (Field-Tested)//175967121
+★ Moto Gloves | Turtle (Minimal Wear)//175967252
+★ Navaja Knife | Blue Steel (Well-Worn)//176001890
+★ Navaja Knife | Boreal Forest (Field-Tested)//176000047
+★ Navaja Knife | Boreal Forest (Minimal Wear)//176000628
+★ Navaja Knife | Case Hardened (Battle-Scarred)//176000804
+★ Navaja Knife | Case Hardened (Field-Tested)//176000491
+★ Navaja Knife | Case Hardened (Minimal Wear)//176000106
+★ Navaja Knife | Damascus Steel (Battle-Scarred)//176044878
+★ Navaja Knife | Damascus Steel (Field-Tested)//176042895
+★ Navaja Knife | Damascus Steel (Well-Worn)//176047499
+★ Navaja Knife | Doppler (Factory New)//176042628
+★ Navaja Knife | Fade (Factory New)//176000110
+★ Navaja Knife | Forest DDPAT (Minimal Wear)//176000862
+★ Navaja Knife | Marble Fade (Factory New)//176042763
+★ Navaja Knife | Night Stripe (Battle-Scarred)//176000774
+★ Navaja Knife | Night Stripe (Field-Tested)//176000275
+★ Navaja Knife | Rust Coat (Battle-Scarred)//176042730
+★ Navaja Knife | Safari Mesh (Field-Tested)//176000161
+★ Navaja Knife | Scorched (Field-Tested)//176000114
+★ Navaja Knife | Scorched (Well-Worn)//176001073
+★ Navaja Knife | Stained (Battle-Scarred)//176002309
+★ Navaja Knife | Stained (Minimal Wear)//176000157
+★ Navaja Knife | Tiger Tooth (Factory New)//176042756
+★ Navaja Knife | Ultraviolet (Field-Tested)//176042801
+★ Navaja Knife | Ultraviolet (Minimal Wear)//176042782
+★ Navaja Knife | Ultraviolet (Well-Worn)//176043477
+★ Navaja Knife | Urban Masked (Battle-Scarred)//176000323
+★ Navaja Knife | Urban Masked (Field-Tested)//176000665
+★ Navaja Knife//176000215
+★ Nomad Knife | Boreal Forest (Field-Tested)//176097592
+★ Nomad Knife | Case Hardened (Field-Tested)//176097664
+★ Nomad Knife | Case Hardened (Well-Worn)//176097566
+★ Nomad Knife | Crimson Web (Field-Tested)//176097515
+★ Nomad Knife | Forest DDPAT (Field-Tested)//176097473
+★ Nomad Knife | Safari Mesh (Field-Tested)//176097512
+★ Nomad Knife | Scorched (Battle-Scarred)//176097790
+★ Nomad Knife | Scorched (Field-Tested)//176097640
+★ Nomad Knife | Slaughter (Factory New)//176097679
+★ Nomad Knife | Slaughter (Field-Tested)//176097718
+★ Nomad Knife | Slaughter (Minimal Wear)//176097475
+★ Nomad Knife | Stained (Field-Tested)//176097716
+★ Nomad Knife | Urban Masked (Field-Tested)//176097086
+★ Paracord Knife | Case Hardened (Field-Tested)//176097390
+★ Paracord Knife | Crimson Web (Field-Tested)//176097550
+★ Paracord Knife | Fade (Factory New)//176097634
+★ Paracord Knife | Night Stripe (Factory New)//176100173
+★ Paracord Knife | Scorched (Field-Tested)//176097419
+★ Paracord Knife | Slaughter (Factory New)//176097639
+★ Paracord Knife | Stained (Field-Tested)//176097666
+★ Shadow Daggers | Case Hardened (Field-Tested)//67104618
+★ Shadow Daggers | Case Hardened (Well-Worn)//67132971
+★ Shadow Daggers | Damascus Steel (Field-Tested)//175880570
+★ Shadow Daggers | Fade (Factory New)//67149388
+★ Shadow Daggers | Forest DDPAT (Battle-Scarred)//67114837
+★ Shadow Daggers | Marble Fade (Factory New)//175880550
+★ Shadow Daggers | Night (Battle-Scarred)//67080183
+★ Shadow Daggers | Rust Coat (Battle-Scarred)//175880488
+★ Shadow Daggers | Scorched (Battle-Scarred)//67073984
+★ Shadow Daggers | Tiger Tooth (Factory New)//175880636
+★ Shadow Daggers | Ultraviolet (Battle-Scarred)//175880988
+★ Shadow Daggers | Ultraviolet (Field-Tested)//175880583
+★ Shadow Daggers | Ultraviolet (Minimal Wear)//175881064
+★ Shadow Daggers | Ultraviolet (Well-Worn)//175880568
+★ Shadow Daggers | Urban Masked (Battle-Scarred)//67104611
+★ Shadow Daggers | Urban Masked (Field-Tested)//67061059
+★ Shadow Daggers//67080180
+★ Skeleton Knife | Case Hardened (Field-Tested)//176097510
+★ Skeleton Knife | Case Hardened (Minimal Wear)//176097345
+★ Skeleton Knife | Crimson Web (Field-Tested)//176097611
+★ Skeleton Knife | Safari Mesh (Field-Tested)//176097553
+★ Skeleton Knife | Scorched (Field-Tested)//176097065
+★ Skeleton Knife | Slaughter (Factory New)//176097657
+★ Skeleton Knife | Slaughter (Minimal Wear)//176097164
+★ Skeleton Knife | Stained (Battle-Scarred)//176097391
+★ Skeleton Knife//176097124
+★ Specialist Gloves | Buckshot (Battle-Scarred)//175967310
+★ Specialist Gloves | Buckshot (Field-Tested)//175967130
+★ Specialist Gloves | Buckshot (Well-Worn)//175967661
+★ Specialist Gloves | Crimson Web (Field-Tested)//175966964
+★ Specialist Gloves | Emerald Web (Battle-Scarred)//175854546
+★ Specialist Gloves | Fade (Battle-Scarred)//175967320
+★ Specialist Gloves | Fade (Field-Tested)//175967208
+★ Specialist Gloves | Field Agent (Battle-Scarred)//176209680
+★ Specialist Gloves | Field Agent (Field-Tested)//176209605
+★ Specialist Gloves | Field Agent (Minimal Wear)//176209870
+★ Specialist Gloves | Forest DDPAT (Field-Tested)//175854475
+★ Specialist Gloves | Lt. Commander (Field-Tested)//176209456
+★ Specialist Gloves | Lt. Commander (Minimal Wear)//176209830
+★ Specialist Gloves | Marble Fade (Field-Tested)//176209764
+★ Specialist Gloves | Marble Fade (Minimal Wear)//176209928
+★ Specialist Gloves | Mogul (Battle-Scarred)//175967127
+★ Specialist Gloves | Mogul (Field-Tested)//175966912
+★ Specialist Gloves | Mogul (Minimal Wear)//175967826
+★ Specialist Gloves | Tiger Strike (Battle-Scarred)//176209922
+★ Specialist Gloves | Tiger Strike (Field-Tested)//176209634
+★ Sport Gloves | Amphibious (Battle-Scarred)//175967410
+★ Sport Gloves | Amphibious (Field-Tested)//175967048
+★ Sport Gloves | Arid (Field-Tested)//175854532
+★ Sport Gloves | Big Game (Field-Tested)//176209799
+★ Sport Gloves | Bronze Morph (Minimal Wear)//175967819
+★ Sport Gloves | Nocts (Field-Tested)//176209648
+★ Sport Gloves | Omega (Battle-Scarred)//175967114
+★ Sport Gloves | Omega (Field-Tested)//175967192
+★ Sport Gloves | Scarlet Shamagh (Field-Tested)//176209763
+★ Sport Gloves | Scarlet Shamagh (Minimal Wear)//176209681
+★ Sport Gloves | Slingshot (Field-Tested)//176209692
+★ Sport Gloves | Slingshot (Well-Worn)//176209599
+★ StatTrak™ Bayonet | Fade (Factory New)//9846303
+★ StatTrak™ Bayonet | Freehand (Factory New)//161632453
+★ StatTrak™ Bayonet | Marble Fade (Factory New)//30947550
+★ StatTrak™ Bowie Knife | Forest DDPAT (Field-Tested)//139691719
+★ StatTrak™ Bowie Knife | Forest DDPAT (Well-Worn)//140610087
+★ StatTrak™ Bowie Knife | Rust Coat (Battle-Scarred)//175880923
+★ StatTrak™ Classic Knife | Blue Steel (Battle-Scarred)//176092010
+★ StatTrak™ Classic Knife | Blue Steel (Minimal Wear)//176092154
+★ StatTrak™ Classic Knife | Stained (Field-Tested)//176092256
+★ StatTrak™ Flip Knife | Case Hardened (Minimal Wear)//9750433
+★ StatTrak™ Flip Knife | Doppler (Factory New)//29682414
+★ StatTrak™ Flip Knife | Ultraviolet (Minimal Wear)//30787824
+★ StatTrak™ Huntsman Knife | Black Laminate (Battle-Scarred)//176263275
+★ StatTrak™ Navaja Knife | Boreal Forest (Field-Tested)//176000117
+★ StatTrak™ Navaja Knife | Doppler (Factory New)//176043936
+★ StatTrak™ Navaja Knife | Forest DDPAT (Field-Tested)//176001767
+★ StatTrak™ Navaja Knife | Forest DDPAT (Well-Worn)//176002689
+★ StatTrak™ Navaja Knife | Rust Coat (Battle-Scarred)//176043321
+★ StatTrak™ Navaja Knife | Safari Mesh (Field-Tested)//176002004
+★ StatTrak™ Navaja Knife | Urban Masked (Field-Tested)//176000499
+★ StatTrak™ Nomad Knife | Fade (Factory New)//176097449
+★ StatTrak™ Shadow Daggers | Gamma Doppler (Factory New)//176263251
+★ StatTrak™ Skeleton Knife | Case Hardened (Battle-Scarred)//176097673
+★ StatTrak™ Stiletto Knife | Marble Fade (Factory New)//176044273
+★ StatTrak™ Stiletto Knife | Night Stripe (Battle-Scarred)//176003784
+★ StatTrak™ Survival Knife | Crimson Web (Minimal Wear)//176100074
+★ StatTrak™ Talon Knife | Rust Coat (Battle-Scarred)//176043383
+★ StatTrak™ Talon Knife//176000616
+★ StatTrak™ Ursus Knife | Marble Fade (Factory New)//176043417
+★ Stiletto Knife | Boreal Forest (Field-Tested)//176000054
+★ Stiletto Knife | Boreal Forest (Minimal Wear)//176001016
+★ Stiletto Knife | Case Hardened (Well-Worn)//176000252
+★ Stiletto Knife | Damascus Steel (Minimal Wear)//176042908
+★ Stiletto Knife | Doppler (Factory New)//176042745
+★ Stiletto Knife | Fade (Factory New)//176000152
+★ Stiletto Knife | Forest DDPAT (Field-Tested)//176000346
+★ Stiletto Knife | Night Stripe (Field-Tested)//176000132
+★ Stiletto Knife | Safari Mesh (Field-Tested)//176000190
+★ Stiletto Knife | Safari Mesh (Minimal Wear)//176000287
+★ Stiletto Knife | Stained (Field-Tested)//176000397
+★ Stiletto Knife | Tiger Tooth (Factory New)//176042792
+★ Stiletto Knife | Urban Masked (Battle-Scarred)//176000972
+★ Stiletto Knife//176000213
+★ Survival Knife | Case Hardened (Battle-Scarred)//176097416
+★ Survival Knife | Case Hardened (Well-Worn)//176097555
+★ Survival Knife | Fade (Factory New)//176096927
+★ Survival Knife | Stained (Battle-Scarred)//176097703
+★ Survival Knife//176097521
+★ Talon Knife | Case Hardened (Field-Tested)//176000144
+★ Talon Knife | Crimson Web (Field-Tested)//176000042
+★ Talon Knife | Crimson Web (Minimal Wear)//176000528
+★ Talon Knife | Damascus Steel (Minimal Wear)//176043035
+★ Talon Knife | Forest DDPAT (Minimal Wear)//176000630
+★ Talon Knife | Night Stripe (Field-Tested)//176000137
+★ Talon Knife | Rust Coat (Battle-Scarred)//176042758
+★ Talon Knife | Safari Mesh (Field-Tested)//176000309
+★ Talon Knife//176000046
+★ Ursus Knife | Case Hardened (Field-Tested)//176000312
+★ Ursus Knife | Case Hardened (Minimal Wear)//176000442
+★ Ursus Knife | Doppler (Factory New)//176042640
+★ Ursus Knife | Fade (Factory New)//176000070
+★ Ursus Knife | Night Stripe (Field-Tested)//176000268
+★ Ursus Knife | Rust Coat (Battle-Scarred)//176042867
+★ Ursus Knife | Safari Mesh (Field-Tested)//176000336
+★ Ursus Knife | Scorched (Field-Tested)//176000342
+★ Ursus Knife//176000191
 1st Lieutenant Farlow | SWAT//176209283
 3rd Commando Company | KSK//176096555
 Aces High Pin//175970598
@@ -22,6 +472,7 @@ AK-47 | Baroque Purple (Field-Tested)//176096588
 AK-47 | Baroque Purple (Minimal Wear)//176096521
 AK-47 | Baroque Purple (Well-Worn)//176096413
 AK-47 | Black Laminate (Battle-Scarred)//1321650
+AK-47 | Black Laminate (Factory New)//1340331
 AK-47 | Black Laminate (Field-Tested)//1321767
 AK-47 | Black Laminate (Minimal Wear)//1321591
 AK-47 | Black Laminate (Well-Worn)//1322161
@@ -54,6 +505,7 @@ AK-47 | Emerald Pinstripe (Field-Tested)//8989555
 AK-47 | Emerald Pinstripe (Minimal Wear)//8989559
 AK-47 | Emerald Pinstripe (Well-Worn)//8990303
 AK-47 | Fire Serpent (Battle-Scarred)//1548096
+AK-47 | Fire Serpent (Field-Tested)//1546557
 AK-47 | First Class (Battle-Scarred)//14959383
 AK-47 | First Class (Factory New)//14962906
 AK-47 | First Class (Field-Tested)//14959385
@@ -244,6 +696,7 @@ AUG | Fleet Flock (Factory New)//149869060
 AUG | Fleet Flock (Field-Tested)//149869037
 AUG | Fleet Flock (Minimal Wear)//149869034
 AUG | Fleet Flock (Well-Worn)//149869057
+AUG | Midnight Lily (Factory New)//176097431
 AUG | Midnight Lily (Minimal Wear)//176096918
 AUG | Momentum (Battle-Scarred)//176042516
 AUG | Momentum (Factory New)//176042736
@@ -346,6 +799,7 @@ AWP | Exoskeleton (Factory New)//176209300
 AWP | Exoskeleton (Field-Tested)//176209246
 AWP | Exoskeleton (Minimal Wear)//176209298
 AWP | Exoskeleton (Well-Worn)//176209379
+AWP | Fade (Factory New)//176209557
 AWP | Fever Dream (Battle-Scarred)//175880411
 AWP | Fever Dream (Factory New)//175880321
 AWP | Fever Dream (Field-Tested)//175880269
@@ -375,6 +829,7 @@ AWP | Neo-Noir (Well-Worn)//176024884
 AWP | Oni Taiji (Factory New)//175896429
 AWP | Oni Taiji (Field-Tested)//175896410
 AWP | Oni Taiji (Minimal Wear)//175896452
+AWP | Oni Taiji (Well-Worn)//175896464
 AWP | PAW (Battle-Scarred)//176000010
 AWP | PAW (Factory New)//175999945
 AWP | PAW (Field-Tested)//175999897
@@ -425,6 +880,7 @@ AWP | Worm God (Minimal Wear)//40092036
 AWP | Worm God (Well-Worn)//40092039
 B Squadron Officer | SAS//176096497
 Baggage Pin//170167787
+Berlin 2019 Vertigo Souvenir Package//176081823
 Bio-Haz Specialist | SWAT//176209464
 Black Mesa Pin//176116876
 Blackwolf | Sabre//176096539
@@ -477,6 +933,7 @@ CZ75-Auto | Emerald (Factory New)//49419411
 CZ75-Auto | Emerald (Minimal Wear)//49539753
 CZ75-Auto | Emerald Quartz (Factory New)//176096847
 CZ75-Auto | Emerald Quartz (Field-Tested)//176096570
+CZ75-Auto | Emerald Quartz (Minimal Wear)//176097381
 CZ75-Auto | Green Plaid (Factory New)//14953117
 CZ75-Auto | Green Plaid (Field-Tested)//14953127
 CZ75-Auto | Hexane (Factory New)//15490358
@@ -659,6 +1116,7 @@ Desert Eagle | Sputnik (Factory New)//176262667
 Desert Eagle | Sputnik (Field-Tested)//176262595
 Desert Eagle | Sputnik (Minimal Wear)//176262590
 Desert Eagle | Sputnik (Well-Worn)//176263046
+Desert Eagle | Sunset Storm 壱 (Factory New)//49430994
 Desert Eagle | Sunset Storm 弐 (Factory New)//49450570
 Desert Eagle | Sunset Storm 弐 (Minimal Wear)//49431009
 Desert Eagle | The Bronze (Factory New)//176209180
@@ -842,6 +1300,7 @@ FAMAS | Sergeant (Battle-Scarred)//7178624
 FAMAS | Sergeant (Field-Tested)//7178656
 FAMAS | Sergeant (Minimal Wear)//7184820
 FAMAS | Sergeant (Well-Worn)//7178687
+FAMAS | Spitfire (Battle-Scarred)//1544631
 FAMAS | Spitfire (Field-Tested)//1544597
 FAMAS | Spitfire (Minimal Wear)//1546244
 FAMAS | Styx (Battle-Scarred)//18531015
@@ -1115,6 +1574,11 @@ Glock-18 | Franklin (Factory New)//176209632
 Glock-18 | Franklin (Field-Tested)//176209358
 Glock-18 | Franklin (Minimal Wear)//176209608
 Glock-18 | Franklin (Well-Worn)//176210029
+Glock-18 | Gamma Doppler (Battle-Scarred)//176262697
+Glock-18 | Gamma Doppler (Factory New)//176262567
+Glock-18 | Gamma Doppler (Field-Tested)//176262563
+Glock-18 | Gamma Doppler (Minimal Wear)//176262574
+Glock-18 | Gamma Doppler (Well-Worn)//176262599
 Glock-18 | Grinder (Factory New)//23853241
 Glock-18 | Grinder (Field-Tested)//23853256
 Glock-18 | Grinder (Minimal Wear)//23853236
@@ -1183,6 +1647,7 @@ Glock-18 | Snack Attack (Well-Worn)//176262912
 Glock-18 | Steel Disruption (Factory New)//15490366
 Glock-18 | Steel Disruption (Field-Tested)//15492593
 Glock-18 | Steel Disruption (Minimal Wear)//15492601
+Glock-18 | Synth Leaf (Field-Tested)//176096581
 Glock-18 | Synth Leaf (Minimal Wear)//176097554
 Glock-18 | Twilight Galaxy (Factory New)//49419368
 Glock-18 | Twilight Galaxy (Field-Tested)//49653168
@@ -1403,6 +1868,7 @@ M4A1-S | VariCamo (Factory New)//2384826
 M4A1-S | VariCamo (Field-Tested)//2383884
 M4A1-S | VariCamo (Minimal Wear)//2386663
 M4A1-S | VariCamo (Well-Worn)//2387661
+M4A1-S | Welcome to the Jungle (Battle-Scarred)//176209543
 M4A4 | Asiimov (Battle-Scarred)//3445747
 M4A4 | Asiimov (Field-Tested)//3452356
 M4A4 | Asiimov (Well-Worn)//3455082
@@ -1429,6 +1895,7 @@ M4A4 | Dark Blossom (Field-Tested)//176096640
 M4A4 | Dark Blossom (Minimal Wear)//176096811
 M4A4 | Dark Blossom (Well-Worn)//176097408
 M4A4 | Daybreak (Factory New)//49440529
+M4A4 | Daybreak (Minimal Wear)//49431017
 M4A4 | Desert Storm (Battle-Scarred)//1321509
 M4A4 | Desert Storm (Factory New)//1321961
 M4A4 | Desert Storm (Field-Tested)//1321492
@@ -1511,8 +1978,10 @@ M4A4 | Spider Lily (Field-Tested)//176262700
 M4A4 | Spider Lily (Minimal Wear)//176262736
 M4A4 | Spider Lily (Well-Worn)//176262745
 M4A4 | Temukau (Battle-Scarred)//176358946
+M4A4 | Temukau (Factory New)//176358901
 M4A4 | Temukau (Field-Tested)//176358845
 M4A4 | Temukau (Minimal Wear)//176358913
+M4A4 | Temukau (Well-Worn)//176358937
 M4A4 | The Battlestar (Battle-Scarred)//139673181
 M4A4 | The Battlestar (Factory New)//139673210
 M4A4 | The Battlestar (Field-Tested)//139654846
@@ -1884,6 +2353,7 @@ MP9 | Starlight Protector (Factory New)//176288559
 MP9 | Starlight Protector (Field-Tested)//176288507
 MP9 | Starlight Protector (Minimal Wear)//176288627
 MP9 | Starlight Protector (Well-Worn)//176288654
+MP9 | Storm (Factory New)//14953133
 Music Kit | Austin Wintory, Desert Fire//21431372
 Music Kit | AWOLNATION, I Am//68169237
 Music Kit | bbno$, u mad!//176268071
@@ -1960,6 +2430,7 @@ Nova | Clear Polymer (Factory New)//176209469
 Nova | Clear Polymer (Field-Tested)//176209210
 Nova | Clear Polymer (Minimal Wear)//176209376
 Nova | Clear Polymer (Well-Worn)//176209414
+Nova | Forest Leaves (Minimal Wear)//1321440
 Nova | Ghost Camo (Factory New)//3442124
 Nova | Gila (Factory New)//175854258
 Nova | Graphite (Factory New)//1917382
@@ -1974,9 +2445,11 @@ Nova | Hyper Beast (Minimal Wear)//139673179
 Nova | Hyper Beast (Well-Worn)//139673160
 Nova | Interlock (Factory New)//176263144
 Nova | Interlock (Field-Tested)//176263164
+Nova | Interlock (Minimal Wear)//176263101
 Nova | Koi (Factory New)//14962908
 Nova | Moon in Libra (Factory New)//49419384
 Nova | Moon in Libra (Field-Tested)//49419379
+Nova | Moon in Libra (Minimal Wear)//49419395
 Nova | Moon in Libra (Well-Worn)//49419433
 Nova | Plume (Factory New)//176096505
 Nova | Plume (Field-Tested)//176096406
@@ -1997,9 +2470,11 @@ Nova | Rust Coat (Factory New)//176209563
 Nova | Rust Coat (Field-Tested)//176209402
 Nova | Rust Coat (Minimal Wear)//176209484
 Nova | Sobek's Bite (Battle-Scarred)//176369954
+Nova | Sobek's Bite (Factory New)//176369983
 Nova | Sobek's Bite (Field-Tested)//176369943
 Nova | Sobek's Bite (Minimal Wear)//176369932
 Nova | Sobek's Bite (Well-Worn)//176369958
+Nova | Tempest (Factory New)//1547787
 Nova | Tempest (Field-Tested)//1546641
 Nova | Tempest (Minimal Wear)//1546407
 Nova | Toy Soldier (Factory New)//175999941
@@ -2037,6 +2512,7 @@ P2000 | Amber Fade (Field-Tested)//2386976
 P2000 | Amber Fade (Minimal Wear)//2385202
 P2000 | Amber Fade (Well-Worn)//2440282
 P2000 | Chainmail (Factory New)//14953184
+P2000 | Chainmail (Minimal Wear)//14953175
 P2000 | Coach Class (Minimal Wear)//14953149
 P2000 | Coach Class (Well-Worn)//14953122
 P2000 | Corticera (Factory New)//15499664
@@ -2077,6 +2553,7 @@ P2000 | Panther Camo (Field-Tested)//176209367
 P2000 | Panther Camo (Minimal Wear)//176209225
 P2000 | Panther Camo (Well-Worn)//176209627
 P2000 | Pathfinder (Factory New)//49419412
+P2000 | Pathfinder (Field-Tested)//49419452
 P2000 | Pathfinder (Minimal Wear)//49419471
 P2000 | Pulse (Factory New)//14216314
 P2000 | Pulse (Field-Tested)//14212933
@@ -2138,10 +2615,12 @@ P250 | Cyber Shell (Factory New)//176241027
 P250 | Dark Filigree (Factory New)//176096549
 P250 | Dark Filigree (Field-Tested)//176096623
 P250 | Dark Filigree (Minimal Wear)//176096668
+P250 | Dark Filigree (Well-Worn)//176096648
 P250 | Digital Architect (Factory New)//176263214
 P250 | Digital Architect (Minimal Wear)//176263153
 P250 | Drought (Minimal Wear)//176262662
 P250 | Exchanger (Factory New)//176012374
+P250 | Facets (Factory New)//1547020
 P250 | Facets (Field-Tested)//1544607
 P250 | Facets (Minimal Wear)//1544650
 P250 | Forest Night (Factory New)//176209401
@@ -2184,6 +2663,7 @@ P250 | Nuclear Threat (Field-Tested)//1321821
 P250 | Nuclear Threat (Minimal Wear)//1321670
 P250 | Nuclear Threat (Well-Worn)//1321840
 P250 | Red Rock (Battle-Scarred)//175896332
+P250 | Red Rock (Factory New)//175896300
 P250 | Red Rock (Field-Tested)//175896316
 P250 | Red Rock (Minimal Wear)//175896390
 P250 | Red Rock (Well-Worn)//175896343
@@ -2234,6 +2714,7 @@ P90 | Asiimov (Factory New)//14966466
 P90 | Asiimov (Field-Tested)//14962959
 P90 | Asiimov (Minimal Wear)//14962979
 P90 | Asiimov (Well-Worn)//14963002
+P90 | Baroque Red (Factory New)//176097231
 P90 | Baroque Red (Field-Tested)//176096706
 P90 | Baroque Red (Minimal Wear)//176097575
 P90 | Blind Spot (Factory New)//3440925
@@ -2312,6 +2793,7 @@ P90 | Teardown (Minimal Wear)//2383798
 P90 | Tiger Pit (Factory New)//176209566
 P90 | Tiger Pit (Field-Tested)//176209384
 P90 | Tiger Pit (Minimal Wear)//176209434
+P90 | Trigon (Battle-Scarred)//7178722
 P90 | Trigon (Field-Tested)//7178683
 P90 | Trigon (Minimal Wear)//7178895
 P90 | Trigon (Well-Worn)//7178672
@@ -2374,6 +2856,7 @@ Patch | Ninjas in Pyjamas (Gold) | Stockholm 2021//176270052
 Patch | Ninjas in Pyjamas | Stockholm 2021//176270027
 Patch | paiN Gaming (Gold) | Stockholm 2021//176270079
 Patch | Rage//176112414
+Patch | Renegades (Gold) | Stockholm 2021//176270018
 Patch | Sharks Esports (Gold) | Stockholm 2021//176270013
 Patch | Sunset Wave//176263075
 Patch | Team Liquid (Gold) | Stockholm 2021//176270043
@@ -2392,6 +2875,7 @@ PP-Bizon | Antique (Battle-Scarred)//8989546
 PP-Bizon | Antique (Factory New)//8988642
 PP-Bizon | Antique (Field-Tested)//8987893
 PP-Bizon | Antique (Minimal Wear)//8988646
+PP-Bizon | Antique (Well-Worn)//8989602
 PP-Bizon | Bamboo Print (Battle-Scarred)//49419356
 PP-Bizon | Bamboo Print (Factory New)//49419463
 PP-Bizon | Bamboo Print (Field-Tested)//49419351
@@ -2436,6 +2920,7 @@ PP-Bizon | Modern Hunter (Factory New)//1398529
 PP-Bizon | Osiris (Factory New)//14962918
 PP-Bizon | Osiris (Minimal Wear)//14962964
 PP-Bizon | Photic Zone (Factory New)//139654803
+PP-Bizon | Rust Coat (Battle-Scarred)//1545327
 PP-Bizon | Seabird (Battle-Scarred)//176096911
 PP-Bizon | Seabird (Factory New)//176096568
 PP-Bizon | Seabird (Field-Tested)//176096454
@@ -2547,6 +3032,7 @@ SCAR-20 | Bloodsport (Field-Tested)//156113440
 SCAR-20 | Bloodsport (Minimal Wear)//156113481
 SCAR-20 | Bloodsport (Well-Worn)//156117116
 SCAR-20 | Blueprint (Factory New)//175880274
+SCAR-20 | Brass (Factory New)//176097530
 SCAR-20 | Brass (Minimal Wear)//176097447
 SCAR-20 | Cardiac (Battle-Scarred)//23853240
 SCAR-20 | Cardiac (Factory New)//23853286
@@ -2656,6 +3142,7 @@ SG 553 | Fallout Warning (Minimal Wear)//18529301
 SG 553 | Gator Mesh (Factory New)//2386971
 SG 553 | Gator Mesh (Field-Tested)//2383730
 SG 553 | Gator Mesh (Minimal Wear)//2387635
+SG 553 | Hazard Pay (Factory New)//176263229
 SG 553 | Hypnotic (Factory New)//176209250
 SG 553 | Hypnotic (Minimal Wear)//176209610
 SG 553 | Integrale (Battle-Scarred)//176012993
@@ -2704,6 +3191,7 @@ Souvenir AK-47 | Green Laminate (Field-Tested)//176271319
 Souvenir AK-47 | Green Laminate (Minimal Wear)//176271233
 Souvenir AK-47 | Panthera onca (Battle-Scarred)//176271466
 Souvenir AK-47 | Panthera onca (Field-Tested)//176271419
+Souvenir AK-47 | Panthera onca (Minimal Wear)//176271391
 Souvenir AK-47 | Panthera onca (Well-Worn)//176271413
 Souvenir AK-47 | Safari Mesh (Battle-Scarred)//2392800
 Souvenir AK-47 | Safari Mesh (Field-Tested)//2386375
@@ -2774,6 +3262,7 @@ Souvenir FAMAS | Styx (Field-Tested)//17677715
 Souvenir FAMAS | Styx (Minimal Wear)//17674164
 Souvenir FAMAS | Waters of Nephthys (Field-Tested)//176372919
 Souvenir Five-SeveN | Contractor (Factory New)//2403804
+Souvenir Five-SeveN | Fall Hazard (Minimal Wear)//176271439
 Souvenir Five-SeveN | Forest Night (Minimal Wear)//2384585
 Souvenir Five-SeveN | Hot Shot (Factory New)//17674157
 Souvenir Five-SeveN | Hot Shot (Minimal Wear)//17674136
@@ -2794,6 +3283,7 @@ Souvenir Galil AR | Cold Fusion (Minimal Wear)//176006305
 Souvenir Galil AR | Cold Fusion (Well-Worn)//176006395
 Souvenir Galil AR | Dusk Ruins (Battle-Scarred)//176271386
 Souvenir Galil AR | Dusk Ruins (Field-Tested)//176271351
+Souvenir Galil AR | Dusk Ruins (Minimal Wear)//176271377
 Souvenir Galil AR | Hunting Blind (Factory New)//2386060
 Souvenir Galil AR | Hunting Blind (Minimal Wear)//2386430
 Souvenir Galil AR | Hunting Blind (Well-Worn)//2393105
@@ -2827,6 +3317,7 @@ Souvenir M4A1-S | Mud-Spec (Field-Tested)//176372866
 Souvenir M4A1-S | Mud-Spec (Minimal Wear)//176372875
 Souvenir M4A1-S | VariCamo (Factory New)//2406657
 Souvenir M4A1-S | VariCamo (Field-Tested)//2386056
+Souvenir M4A1-S | VariCamo (Minimal Wear)//2384499
 Souvenir M4A4 | Converter (Factory New)//176006035
 Souvenir M4A4 | Converter (Field-Tested)//176005993
 Souvenir M4A4 | Converter (Minimal Wear)//176005991
@@ -2837,8 +3328,10 @@ Souvenir M4A4 | Mainframe (Well-Worn)//176006369
 Souvenir M4A4 | Radiation Hazard (Battle-Scarred)//17670827
 Souvenir M4A4 | Radiation Hazard (Minimal Wear)//17670830
 Souvenir M4A4 | Radiation Hazard (Well-Worn)//17674156
+Souvenir M4A4 | Red DDPAT (Battle-Scarred)//176271554
 Souvenir M4A4 | Red DDPAT (Factory New)//176271559
 Souvenir M4A4 | Red DDPAT (Field-Tested)//176271531
+Souvenir M4A4 | Red DDPAT (Minimal Wear)//176271548
 Souvenir M4A4 | Red DDPAT (Well-Worn)//176271540
 Souvenir M4A4 | Tornado (Battle-Scarred)//17664432
 Souvenir M4A4 | Tornado (Field-Tested)//17661998
@@ -2885,6 +3378,7 @@ Souvenir MP5-SD | Oxide Oasis (Battle-Scarred)//176271318
 Souvenir MP5-SD | Oxide Oasis (Factory New)//176271301
 Souvenir MP5-SD | Oxide Oasis (Field-Tested)//176271298
 Souvenir MP5-SD | Oxide Oasis (Minimal Wear)//176271281
+Souvenir MP5-SD | Oxide Oasis (Well-Worn)//176271476
 Souvenir MP7 | Army Recon (Field-Tested)//2384514
 Souvenir MP7 | Army Recon (Minimal Wear)//2384596
 Souvenir MP7 | Fade (Factory New)//176006025
@@ -2926,6 +3420,7 @@ Souvenir P2000 | Chainmail (Field-Tested)//17697891
 Souvenir P2000 | Chainmail (Minimal Wear)//17688115
 Souvenir P2000 | Grassland (Factory New)//26385721
 Souvenir P250 | Black & Tan (Battle-Scarred)//176271563
+Souvenir P250 | Bone Mask (Factory New)//2421544
 Souvenir P250 | Boreal Forest (Field-Tested)//2384849
 Souvenir P250 | Contamination (Factory New)//17674160
 Souvenir P250 | Contamination (Minimal Wear)//17674125
@@ -2937,6 +3432,7 @@ Souvenir P250 | Gunsmoke (Minimal Wear)//17661997
 Souvenir P250 | Metallic DDPAT (Factory New)//2388384
 Souvenir P250 | Nuclear Threat (Battle-Scarred)//17778379
 Souvenir P250 | Nuclear Threat (Field-Tested)//17707095
+Souvenir P250 | Vino Primo (Battle-Scarred)//176006061
 Souvenir P250 | Vino Primo (Factory New)//176006986
 Souvenir P250 | Vino Primo (Field-Tested)//176006045
 Souvenir P250 | Vino Primo (Minimal Wear)//176006036
@@ -2945,6 +3441,7 @@ Souvenir P90 | Ash Wood (Factory New)//2387640
 Souvenir P90 | Facility Negative (Factory New)//176006328
 Souvenir P90 | Facility Negative (Field-Tested)//176006341
 Souvenir P90 | Glacier Mesh (Battle-Scarred)//176081838
+Souvenir P90 | Glacier Mesh (Minimal Wear)//176081841
 Souvenir P90 | Run and Hide (Battle-Scarred)//176271408
 Souvenir P90 | Run and Hide (Field-Tested)//176271404
 Souvenir P90 | Run and Hide (Minimal Wear)//176271396
@@ -2972,6 +3469,7 @@ Souvenir Sawed-Off | Rust Coat (Battle-Scarred)//17680891
 Souvenir Sawed-Off | Rust Coat (Factory New)//17680900
 Souvenir SCAR-20 | Carbon Fiber (Factory New)//2386069
 Souvenir SCAR-20 | Carbon Fiber (Minimal Wear)//2396548
+Souvenir SCAR-20 | Contractor (Field-Tested)//2384553
 Souvenir SG 553 | Damascus Steel (Battle-Scarred)//2385790
 Souvenir SG 553 | Damascus Steel (Field-Tested)//2388416
 Souvenir SG 553 | Damascus Steel (Minimal Wear)//2385758
@@ -2983,11 +3481,13 @@ Souvenir SG 553 | Gator Mesh (Factory New)//2388306
 Souvenir SG 553 | Gator Mesh (Field-Tested)//2387799
 Souvenir SG 553 | Gator Mesh (Minimal Wear)//2386502
 Souvenir SG 553 | Gator Mesh (Well-Worn)//2393084
+Souvenir SG 553 | Integrale (Field-Tested)//176006046
 Souvenir SG 553 | Integrale (Well-Worn)//176006019
 Souvenir SSG 08 | Acid Fade (Factory New)//2385154
 Souvenir SSG 08 | Azure Glyph (Factory New)//176372917
 Souvenir SSG 08 | Carbon Fiber (Factory New)//176271232
 Souvenir SSG 08 | Carbon Fiber (Minimal Wear)//176271279
+Souvenir SSG 08 | Death Strike (Field-Tested)//176271551
 Souvenir SSG 08 | Detour (Factory New)//17680865
 Souvenir SSG 08 | Detour (Field-Tested)//17725007
 Souvenir SSG 08 | Hand Brake (Battle-Scarred)//176006038
@@ -3027,6 +3527,7 @@ Souvenir UMP-45 | Indigo (Factory New)//17723092
 Souvenir UMP-45 | Indigo (Minimal Wear)//17680879
 Souvenir UMP-45 | Indigo (Well-Worn)//17680866
 Souvenir UMP-45 | Scorched (Factory New)//17733417
+Souvenir USP-S | Ancient Visions (Factory New)//176271405
 Souvenir USP-S | Ancient Visions (Field-Tested)//176271382
 Souvenir USP-S | Ancient Visions (Well-Worn)//176271564
 Souvenir USP-S | Check Engine (Battle-Scarred)//176006188
@@ -3037,6 +3538,7 @@ Souvenir USP-S | Check Engine (Well-Worn)//176005956
 Souvenir USP-S | Desert Tactical (Minimal Wear)//176372864
 Souvenir USP-S | Orange Anolis (Factory New)//176271535
 Souvenir USP-S | Orange Anolis (Field-Tested)//176271537
+Souvenir USP-S | Orange Anolis (Minimal Wear)//176271491
 Souvenir USP-S | Purple DDPAT (Battle-Scarred)//176271193
 Souvenir USP-S | Purple DDPAT (Factory New)//176271218
 Souvenir USP-S | Purple DDPAT (Field-Tested)//176271184
@@ -3267,6 +3769,7 @@ StatTrak™ AK-47 | Vulcan (Field-Tested)//8994342
 StatTrak™ AK-47 | Vulcan (Well-Worn)//9020211
 StatTrak™ AK-47 | Wasteland Rebel (Battle-Scarred)//23861472
 StatTrak™ AK-47 | Wasteland Rebel (Field-Tested)//23861458
+StatTrak™ AK-47 | Wasteland Rebel (Minimal Wear)//23867451
 StatTrak™ AK-47 | Wasteland Rebel (Well-Worn)//23899544
 StatTrak™ AUG | Amber Slipstream (Factory New)//175999962
 StatTrak™ AUG | Arctic Wolf (Battle-Scarred)//176097074
@@ -3344,6 +3847,7 @@ StatTrak™ AWP | Chromatic Aberration (Minimal Wear)//176321417
 StatTrak™ AWP | Chromatic Aberration (Well-Worn)//176321403
 StatTrak™ AWP | Chrome Cannon (Field-Tested)//176414180
 StatTrak™ AWP | Containment Breach (Battle-Scarred)//176097330
+StatTrak™ AWP | Containment Breach (Factory New)//176097030
 StatTrak™ AWP | Containment Breach (Field-Tested)//176096794
 StatTrak™ AWP | Containment Breach (Well-Worn)//176097228
 StatTrak™ AWP | Corticera (Factory New)//15535665
@@ -3375,6 +3879,7 @@ StatTrak™ AWP | Fever Dream (Well-Worn)//175880470
 StatTrak™ AWP | Graphite (Factory New)//1547914
 StatTrak™ AWP | Graphite (Minimal Wear)//1552158
 StatTrak™ AWP | Hyper Beast (Battle-Scarred)//49461581
+StatTrak™ AWP | Hyper Beast (Factory New)//49727652
 StatTrak™ AWP | Hyper Beast (Field-Tested)//49431016
 StatTrak™ AWP | Hyper Beast (Minimal Wear)//49450571
 StatTrak™ AWP | Hyper Beast (Well-Worn)//49399580
@@ -3487,6 +3992,7 @@ StatTrak™ Desert Eagle | Bronze Deco (Field-Tested)//40092030
 StatTrak™ Desert Eagle | Bronze Deco (Minimal Wear)//40092048
 StatTrak™ Desert Eagle | Bronze Deco (Well-Worn)//40094841
 StatTrak™ Desert Eagle | Cobalt Disruption (Factory New)//3445804
+StatTrak™ Desert Eagle | Cobalt Disruption (Field-Tested)//3451015
 StatTrak™ Desert Eagle | Code Red (Battle-Scarred)//176000246
 StatTrak™ Desert Eagle | Code Red (Factory New)//176000165
 StatTrak™ Desert Eagle | Code Red (Field-Tested)//176000090
@@ -3535,6 +4041,7 @@ StatTrak™ Desert Eagle | Naga (Field-Tested)//29205262
 StatTrak™ Desert Eagle | Naga (Minimal Wear)//29207460
 StatTrak™ Desert Eagle | Naga (Well-Worn)//29209314
 StatTrak™ Desert Eagle | Ocean Drive (Battle-Scarred)//176263184
+StatTrak™ Desert Eagle | Ocean Drive (Factory New)//176263339
 StatTrak™ Desert Eagle | Ocean Drive (Field-Tested)//176262991
 StatTrak™ Desert Eagle | Ocean Drive (Minimal Wear)//176263203
 StatTrak™ Desert Eagle | Ocean Drive (Well-Worn)//176263118
@@ -3559,6 +4066,7 @@ StatTrak™ Dual Berettas | Black Limba (Field-Tested)//1546717
 StatTrak™ Dual Berettas | Black Limba (Minimal Wear)//1547864
 StatTrak™ Dual Berettas | Cartel (Factory New)//139673206
 StatTrak™ Dual Berettas | Cartel (Minimal Wear)//139654806
+StatTrak™ Dual Berettas | Cobra Strike (Minimal Wear)//175896392
 StatTrak™ Dual Berettas | Dezastre (Battle-Scarred)//176209606
 StatTrak™ Dual Berettas | Dezastre (Field-Tested)//176209440
 StatTrak™ Dual Berettas | Dezastre (Minimal Wear)//176209385
@@ -3570,6 +4078,7 @@ StatTrak™ Dual Berettas | Flora Carnivora (Factory New)//176321191
 StatTrak™ Dual Berettas | Flora Carnivora (Field-Tested)//176321292
 StatTrak™ Dual Berettas | Flora Carnivora (Minimal Wear)//176321274
 StatTrak™ Dual Berettas | Hemoglobin (Factory New)//1917394
+StatTrak™ Dual Berettas | Hemoglobin (Field-Tested)//1920593
 StatTrak™ Dual Berettas | Hemoglobin (Minimal Wear)//1919859
 StatTrak™ Dual Berettas | Marina (Battle-Scarred)//3470138
 StatTrak™ Dual Berettas | Marina (Field-Tested)//3440103
@@ -3816,6 +4325,7 @@ StatTrak™ Galil AR | Sugar Rush (Minimal Wear)//175896375
 StatTrak™ Galil AR | Vandal (Factory New)//176209643
 StatTrak™ Galil AR | Vandal (Minimal Wear)//176209371
 StatTrak™ Glock-18 | Blue Fissure (Battle-Scarred)//6822854
+StatTrak™ Glock-18 | Blue Fissure (Factory New)//6828323
 StatTrak™ Glock-18 | Blue Fissure (Field-Tested)//6821577
 StatTrak™ Glock-18 | Blue Fissure (Minimal Wear)//6821531
 StatTrak™ Glock-18 | Blue Fissure (Well-Worn)//6821592
@@ -3837,6 +4347,7 @@ StatTrak™ Glock-18 | Catacombs (Well-Worn)//29211158
 StatTrak™ Glock-18 | Clear Polymer (Factory New)//176241132
 StatTrak™ Glock-18 | Clear Polymer (Minimal Wear)//176241025
 StatTrak™ Glock-18 | Dragon Tattoo (Factory New)//1321626
+StatTrak™ Glock-18 | Dragon Tattoo (Minimal Wear)//1322176
 StatTrak™ Glock-18 | Grinder (Factory New)//23853271
 StatTrak™ Glock-18 | Grinder (Field-Tested)//23861461
 StatTrak™ Glock-18 | Grinder (Minimal Wear)//23853257
@@ -3937,6 +4448,7 @@ StatTrak™ M4A1-S | Basilisk (Factory New)//23853302
 StatTrak™ M4A1-S | Basilisk (Field-Tested)//23853261
 StatTrak™ M4A1-S | Basilisk (Minimal Wear)//23853293
 StatTrak™ M4A1-S | Basilisk (Well-Worn)//23867449
+StatTrak™ M4A1-S | Black Lotus (Field-Tested)//176414123
 StatTrak™ M4A1-S | Blood Tiger (Factory New)//1919203
 StatTrak™ M4A1-S | Blood Tiger (Field-Tested)//1919208
 StatTrak™ M4A1-S | Blood Tiger (Minimal Wear)//1918257
@@ -4116,6 +4628,7 @@ StatTrak™ MAC-10 | Aloha (Well-Worn)//175896360
 StatTrak™ MAC-10 | Button Masher (Factory New)//176241108
 StatTrak™ MAC-10 | Button Masher (Minimal Wear)//176241073
 StatTrak™ MAC-10 | Classic Crate (Factory New)//176091852
+StatTrak™ MAC-10 | Curse (Factory New)//8989660
 StatTrak™ MAC-10 | Curse (Minimal Wear)//8990327
 StatTrak™ MAC-10 | Disco Tech (Battle-Scarred)//176118415
 StatTrak™ MAC-10 | Disco Tech (Factory New)//176118410
@@ -4157,6 +4670,7 @@ StatTrak™ MAC-10 | Tatter (Factory New)//14216352
 StatTrak™ MAC-10 | Tatter (Field-Tested)//14216342
 StatTrak™ MAC-10 | Tatter (Minimal Wear)//14219452
 StatTrak™ MAC-10 | Toybox (Battle-Scarred)//176262999
+StatTrak™ MAC-10 | Toybox (Factory New)//176263185
 StatTrak™ MAC-10 | Toybox (Field-Tested)//176262767
 StatTrak™ MAC-10 | Toybox (Minimal Wear)//176263085
 StatTrak™ MAC-10 | Toybox (Well-Worn)//176262946
@@ -4171,6 +4685,7 @@ StatTrak™ MAG-7 | BI83 Spectrum (Minimal Wear)//176262925
 StatTrak™ MAG-7 | BI83 Spectrum (Well-Worn)//176263105
 StatTrak™ MAG-7 | Cobalt Core (Factory New)//67061041
 StatTrak™ MAG-7 | Cobalt Core (Field-Tested)//67061008
+StatTrak™ MAG-7 | Firestarter (Factory New)//23853312
 StatTrak™ MAG-7 | Firestarter (Minimal Wear)//23853258
 StatTrak™ MAG-7 | Firestarter (Well-Worn)//23853269
 StatTrak™ MAG-7 | Hard Water (Factory New)//175896330
@@ -4387,6 +4902,7 @@ StatTrak™ Nova | Antique (Minimal Wear)//7178685
 StatTrak™ Nova | Bloomstick (Field-Tested)//15492586
 StatTrak™ Nova | Bloomstick (Minimal Wear)//15503117
 StatTrak™ Nova | Clear Polymer (Battle-Scarred)//176209591
+StatTrak™ Nova | Clear Polymer (Factory New)//176209598
 StatTrak™ Nova | Clear Polymer (Field-Tested)//176209374
 StatTrak™ Nova | Clear Polymer (Minimal Wear)//176209503
 StatTrak™ Nova | Clear Polymer (Well-Worn)//176209399
@@ -4412,6 +4928,7 @@ StatTrak™ Nova | Ranger (Factory New)//49399561
 StatTrak™ Nova | Ranger (Field-Tested)//49359089
 StatTrak™ Nova | Rising Skull (Factory New)//3458374
 StatTrak™ Nova | Rising Skull (Field-Tested)//3442227
+StatTrak™ Nova | Rising Skull (Minimal Wear)//3449602
 StatTrak™ Nova | Tempest (Field-Tested)//1546864
 StatTrak™ Nova | Tempest (Minimal Wear)//1546372
 StatTrak™ Nova | Toy Soldier (Battle-Scarred)//175999959
@@ -4475,6 +4992,7 @@ StatTrak™ P2000 | Wicked Sick (Factory New)//176358936
 StatTrak™ P2000 | Wicked Sick (Field-Tested)//176358941
 StatTrak™ P2000 | Wicked Sick (Minimal Wear)//176358821
 StatTrak™ P2000 | Wicked Sick (Well-Worn)//176358862
+StatTrak™ P2000 | Woodsman (Battle-Scarred)//175896424
 StatTrak™ P2000 | Woodsman (Field-Tested)//175896388
 StatTrak™ P2000 | Woodsman (Minimal Wear)//175896435
 StatTrak™ P250 | Asiimov (Battle-Scarred)//149869016
@@ -4582,6 +5100,7 @@ StatTrak™ P90 | Death Grip (Factory New)//175896503
 StatTrak™ P90 | Death Grip (Field-Tested)//175896319
 StatTrak™ P90 | Death Grip (Minimal Wear)//175896287
 StatTrak™ P90 | Death Grip (Well-Worn)//175896393
+StatTrak™ P90 | Desert Warfare (Factory New)//8988941
 StatTrak™ P90 | Desert Warfare (Field-Tested)//8989586
 StatTrak™ P90 | Elite Build (Factory New)//49399551
 StatTrak™ P90 | Elite Build (Field-Tested)//49359062
@@ -4642,6 +5161,7 @@ StatTrak™ PP-Bizon | High Roller (Factory New)//175917393
 StatTrak™ PP-Bizon | High Roller (Field-Tested)//175917374
 StatTrak™ PP-Bizon | High Roller (Minimal Wear)//175917445
 StatTrak™ PP-Bizon | High Roller (Well-Worn)//175917381
+StatTrak™ PP-Bizon | Judgement of Anubis (Battle-Scarred)//150104809
 StatTrak™ PP-Bizon | Judgement of Anubis (Factory New)//149882137
 StatTrak™ PP-Bizon | Judgement of Anubis (Field-Tested)//149892591
 StatTrak™ PP-Bizon | Judgement of Anubis (Minimal Wear)//149887246
@@ -4854,6 +5374,7 @@ StatTrak™ Tec-9 | Cut Out (Factory New)//175896421
 StatTrak™ Tec-9 | Cut Out (Field-Tested)//175896328
 StatTrak™ Tec-9 | Cut Out (Minimal Wear)//175896311
 StatTrak™ Tec-9 | Decimator (Battle-Scarred)//176096952
+StatTrak™ Tec-9 | Decimator (Factory New)//176096678
 StatTrak™ Tec-9 | Decimator (Field-Tested)//176097069
 StatTrak™ Tec-9 | Decimator (Minimal Wear)//176097167
 StatTrak™ Tec-9 | Fubar (Minimal Wear)//176025195
@@ -5005,6 +5526,7 @@ StatTrak™ USP-S | Overgrowth (Minimal Wear)//1548114
 StatTrak™ USP-S | Printstream (Battle-Scarred)//176321406
 StatTrak™ USP-S | Printstream (Field-Tested)//176321306
 StatTrak™ USP-S | Printstream (Minimal Wear)//176321285
+StatTrak™ USP-S | Serum (Factory New)//1920441
 StatTrak™ USP-S | Serum (Field-Tested)//1921089
 StatTrak™ USP-S | Serum (Minimal Wear)//1918258
 StatTrak™ USP-S | Stainless (Battle-Scarred)//6822363
@@ -5062,6 +5584,7 @@ StatTrak™ XM1014 | Watchdog (Well-Worn)//176262837
 StatTrak™ XM1014 | XOXO (Battle-Scarred)//176241134
 StatTrak™ XM1014 | XOXO (Factory New)//176241144
 StatTrak™ XM1014 | XOXO (Field-Tested)//176241079
+StatTrak™ XM1014 | XOXO (Minimal Wear)//176241060
 StatTrak™ XM1014 | XOXO (Well-Worn)//176241124
 StatTrak™ XM1014 | Ziggy (Factory New)//175917385
 StatTrak™ XM1014 | Ziggy (Field-Tested)//175917245
@@ -5150,12 +5673,14 @@ Sticker | autimatic (Foil) | London 2018//176004429
 Sticker | autimatic | Krakow 2017//175905828
 Sticker | Avangar (Foil) | Berlin 2019//176079776
 Sticker | Avangar (Foil) | Boston 2018//175945167
+Sticker | Avangar (Holo) | Boston 2018//175945289
 Sticker | Avangar (Holo) | Katowice 2019//176036533
 Sticker | Avangar | Boston 2018//175945334
 Sticker | Ax1Le (Gold) | Antwerp 2022//176312483
 Sticker | Ax1Le (Gold) | Stockholm 2021//176274600
 Sticker | Ax1Le (Holo) | Antwerp 2022//176312428
 Sticker | AZR (Foil) | Katowice 2019//176036712
+Sticker | B1ad3 (Foil) | Boston 2018//175945447
 Sticker | B1ad3 | Krakow 2017//175905948
 Sticker | b1t (Gold) | Antwerp 2022//176312561
 Sticker | b1t (Gold) | Paris 2023//176372194
@@ -5199,6 +5724,7 @@ Sticker | Boom (Gold) | 2020 RMR//176222784
 Sticker | Boombl4 (Foil) | Boston 2018//175945432
 Sticker | Boombl4 (Foil) | Katowice 2019//176036752
 Sticker | Boombl4 (Foil) | London 2018//176004591
+Sticker | Boombl4 (Gold) | Berlin 2019//176080043
 Sticker | Boombl4 (Gold) | Stockholm 2021//176274594
 Sticker | Boombl4 (Holo) | Antwerp 2022//176312431
 Sticker | Boombl4 | Boston 2018//175945373
@@ -5235,6 +5761,8 @@ Sticker | captainMo | London 2018//176004532
 Sticker | Cbbl (Holo)//176327048
 Sticker | Chaos Marine (Foil)//176137036
 Sticker | Chief (Foil)//176099141
+Sticker | chrisJ (Foil) | Cologne 2015//61699289
+Sticker | chrisJ (Foil) | Krakow 2017//175905910
 Sticker | chrisJ (Foil) | London 2018//176004531
 Sticker | chrisJ | Krakow 2017//175905923
 Sticker | Clan-Mystik | Katowice 2014//17402531
@@ -5243,15 +5771,18 @@ Sticker | Cloud9 (Gold) | Antwerp 2022//176312331
 Sticker | Cloud9 (Gold) | Rio 2022//176339783
 Sticker | Cloud9 (Holo) | Antwerp 2022//176312149
 Sticker | Cloud9 (Holo) | London 2018//176004409
+Sticker | Cloud9 (Holo) | MLG Columbus 2016//144424315
 Sticker | Cloud9 (Holo) | Rio 2022//176339577
 Sticker | Cloud9 | Boston 2018//175945136
 Sticker | Cloud9 | Cluj-Napoca 2015//75982414
+Sticker | Cloud9 | Cologne 2014//17080536
 Sticker | Cloud9 | London 2018//176004328
 Sticker | Cloud9 | MLG Columbus 2016//144424221
 Sticker | Cloud9 G2A | Cologne 2015//61699294
 Sticker | Cloud9 G2A | Katowice 2015//33771327
 Sticker | Coiled Strike (Holo)//176209360
 Sticker | COLDYY1 (Foil) | Katowice 2019//176036873
+Sticker | COLDYY1 (Foil) | London 2018//176004671
 Sticker | coldzera (Foil) | Krakow 2017//175905873
 Sticker | coldzera (Foil) | London 2018//176004601
 Sticker | coldzera (Gold) | Katowice 2019//176036944
@@ -5319,6 +5850,7 @@ Sticker | device | MLG Columbus 2016//144424289
 Sticker | dexter (Holo) | Paris 2023//176372137
 Sticker | dgt (Holo) | Antwerp 2022//176312329
 Sticker | DickStacy (Foil) | Berlin 2019//176079910
+Sticker | DickStacy (Foil) | Katowice 2019//176036546
 Sticker | DickStacy (Gold) | Berlin 2019//176080193
 Sticker | DickStacy | Katowice 2019//176036699
 Sticker | Dima (Foil) | Katowice 2019//176036804
@@ -5457,6 +5989,7 @@ Sticker | felps (Gold) | Paris 2023//176372184
 Sticker | fer (Foil) | Katowice 2019//176036679
 Sticker | fer (Foil) | Krakow 2017//175905975
 Sticker | fer (Gold) | Antwerp 2022//176312151
+Sticker | fer (Gold) | Berlin 2019//176079920
 Sticker | fer (Gold) | Rio 2022//176339839
 Sticker | fer | Cologne 2016//157485808
 Sticker | fer | MLG Columbus 2016//144424257
@@ -5503,7 +6036,9 @@ Sticker | Fluxo (Holo) | Paris 2023//176371714
 Sticker | Fnatic (Foil) | 2020 RMR//176222737
 Sticker | Fnatic (Foil) | Boston 2018//175945359
 Sticker | Fnatic (Foil) | Cluj-Napoca 2015//75982461
+Sticker | Fnatic (Foil) | Cologne 2015//61699221
 Sticker | Fnatic (Foil) | Cologne 2016//157485861
+Sticker | Fnatic (Foil) | MLG Columbus 2016//144424349
 Sticker | Fnatic (Gold) | 2020 RMR//176222785
 Sticker | Fnatic (Gold) | Paris 2023//176371895
 Sticker | Fnatic (Gold) | Rio 2022//176339707
@@ -5602,6 +6137,7 @@ Sticker | GeT_RiGhT | Cologne 2016//157485881
 Sticker | GeT_RiGhT | MLG Columbus 2016//144424252
 Sticker | gla1ve (Foil) | Cologne 2016//157485953
 Sticker | gla1ve (Foil) | Katowice 2019//176036709
+Sticker | gla1ve (Foil) | London 2018//176004388
 Sticker | gla1ve (Gold) | Berlin 2019//176079971
 Sticker | gla1ve | Atlanta 2017//175865666
 Sticker | gla1ve | Krakow 2017//175905981
@@ -5621,6 +6157,7 @@ Sticker | Gold Nova (Holo)//176020997
 Sticker | Gold Nova//176020986
 Sticker | Gold Web (Foil)//176096422
 Sticker | Golden (Foil) | Boston 2018//175945225
+Sticker | Golden (Foil) | Katowice 2019//176036628
 Sticker | Golden (Foil) | London 2018//176004496
 Sticker | Golden (Gold) | Berlin 2019//176080035
 Sticker | Good Game//7320834
@@ -5638,6 +6175,7 @@ Sticker | GuardiaN (Foil) | Krakow 2017//175905996
 Sticker | GuardiaN (Foil) | London 2018//176004327
 Sticker | GuardiaN | Atlanta 2017//175865604
 Sticker | GuardiaN | Boston 2018//175945244
+Sticker | GuardiaN | Cluj-Napoca 2015//75982473
 Sticker | GuardiaN | Cologne 2016//157485859
 Sticker | GuardiaN | Krakow 2017//175905876
 Sticker | Guardian Dragon (Foil)//175922255
@@ -5660,7 +6198,9 @@ Sticker | Hello MAC-10 (Gold)//176209517
 Sticker | Hello MP7 (Gold)//176209601
 Sticker | Hello PP-Bizon (Gold)//176209583
 Sticker | Hello UMP-45 (Gold)//176209474
+Sticker | Hello XM1014 (Gold)//176209577
 Sticker | HellRaisers (Foil) | Berlin 2019//176079918
+Sticker | HellRaisers (Foil) | Katowice 2015//33771341
 Sticker | HellRaisers (Foil) | London 2018//176004595
 Sticker | HellRaisers (Holo) | Berlin 2019//176079746
 Sticker | HellRaisers (Holo) | Cologne 2014//17080551
@@ -5755,6 +6295,7 @@ Sticker | jks | Boston 2018//175945355
 Sticker | jks | Katowice 2019//176036555
 Sticker | jL (Gold) | Paris 2023//176372206
 Sticker | jR (Foil) | Boston 2018//175945421
+Sticker | jR (Foil) | Krakow 2017//175905858
 Sticker | jR (Foil) | London 2018//176004585
 Sticker | jR | Boston 2018//175945174
 Sticker | jR | Krakow 2017//175905814
@@ -5834,6 +6375,7 @@ Sticker | KRIMZ (Foil) | London 2018//176004572
 Sticker | KRIMZ (Gold) | Paris 2023//176372010
 Sticker | KRIMZ | Cluj-Napoca 2015//75982371
 Sticker | KRIMZ | Krakow 2017//175905889
+Sticker | kRYSTAL (Foil) | Boston 2018//175945163
 Sticker | kRYSTAL (Foil) | Krakow 2017//175905947
 Sticker | kRYSTAL | Boston 2018//175945243
 Sticker | kRYSTAL | Krakow 2017//175905929
@@ -5858,6 +6400,7 @@ Sticker | Lekr0 | Boston 2018//175945279
 Sticker | LGB eSports (Foil) | Katowice 2015//33771353
 Sticker | LGB eSports (Holo) | Katowice 2015//33771362
 Sticker | LGB eSports | Katowice 2015//33771374
+Sticker | Liazz (Gold) | Antwerp 2022//176312478
 Sticker | Liazz (Gold) | Berlin 2019//176080000
 Sticker | Liazz (Gold) | Paris 2023//176372148
 Sticker | Liquid Fire (Holo)//176262876
@@ -5901,6 +6444,8 @@ Sticker | magixx (Gold) | Rio 2022//176339941
 Sticker | magixx (Holo) | Antwerp 2022//176312424
 Sticker | malta (Foil) | Katowice 2019//176036737
 Sticker | Maniac (Foil) | Cologne 2015//61699331
+Sticker | markeloff (Foil) | Boston 2018//175945378
+Sticker | markeloff (Foil) | Krakow 2017//175905988
 Sticker | markeloff | Krakow 2017//175905843
 Sticker | max (Gold) | Antwerp 2022//176312579
 Sticker | max (Holo) | Antwerp 2022//176312486
@@ -5921,12 +6466,15 @@ Sticker | MLG | MLG Columbus 2016//144424254
 Sticker | Monte (Gold) | Paris 2023//176371996
 Sticker | Monte (Holo) | Paris 2023//176371763
 Sticker | Mood Ring Strafe (Holo)//176263107
+Sticker | mou (Foil) | Boston 2018//175945410
 Sticker | mou (Foil) | Krakow 2017//175905894
 Sticker | mou | Krakow 2017//175905855
 Sticker | mousesports (Foil) | Berlin 2019//176079943
 Sticker | mousesports (Foil) | Boston 2018//175945140
 Sticker | mousesports (Foil) | Cologne 2016//157485826
+Sticker | mousesports (Holo) | Boston 2018//175945200
 Sticker | mousesports (Holo) | London 2018//176004338
+Sticker | mousesports (Holo) | MLG Columbus 2016//144424336
 Sticker | mousesports | Atlanta 2017//175865675
 Sticker | mousesports | Boston 2018//175945316
 Sticker | mousesports | Cluj-Napoca 2015//75982475
@@ -5942,10 +6490,12 @@ Sticker | MOUZ (Holo) | Rio 2022//176339620
 Sticker | MOUZ (Holo) | Stockholm 2021//176270022
 Sticker | Move It (Holo)//170165287
 Sticker | Movistar Riders (Foil) | Stockholm 2021//176269970
+Sticker | Movistar Riders (Gold) | Stockholm 2021//176270056
 Sticker | Movistar Riders (Holo) | Stockholm 2021//176269962
 Sticker | Mr. Chompy (Foil)//176275966
 Sticker | MSL | Boston 2018//175945290
 Sticker | MSL | Krakow 2017//175905799
+Sticker | MSL | London 2018//176004408
 Sticker | MTS GameGod Wolf (Holo) | Cologne 2014//17080555
 Sticker | MTS GameGod Wolf | Cologne 2014//17080545
 Sticker | mynio (Gold) | Paris 2023//176372153
@@ -5996,8 +6546,10 @@ Sticker | Nemiga (Gold) | 2020 RMR//176222805
 Sticker | NEO | Atlanta 2017//175865688
 Sticker | NEO | Cluj-Napoca 2015//75982367
 Sticker | NertZ (Gold) | Paris 2023//176372151
+Sticker | New Sheriff (Foil)//8989646
 Sticker | nex (Foil) | Krakow 2017//175905802
 Sticker | nex | Krakow 2017//175905931
+Sticker | nexa (Gold) | Rio 2022//176339984
 Sticker | nexa (Gold) | Stockholm 2021//176274639
 Sticker | ngiN (Foil) | London 2018//176004690
 Sticker | Nice Shot//7321006
@@ -6076,8 +6628,10 @@ Sticker | OpTic Gaming | London 2018//176004673
 Sticker | oSee (Gold) | Antwerp 2022//176312588
 Sticker | oSee (Gold) | Paris 2023//176372047
 Sticker | oskar (Foil) | Krakow 2017//175905810
+Sticker | oskar (Foil) | London 2018//176004360
 Sticker | oskar | Krakow 2017//175905818
 Sticker | Outsiders (Gold) | Antwerp 2022//176312089
+Sticker | Outsiders (Gold) | Rio 2022//176339858
 Sticker | Outsiders (Holo) | Antwerp 2022//176312288
 Sticker | Outsiders (Holo) | Rio 2022//176339558
 Sticker | PAC AI (Foil)//176275964
@@ -6091,6 +6645,7 @@ Sticker | pashaBiceps | Cologne 2015//61699198
 Sticker | pashaBiceps | MLG Columbus 2016//144424321
 Sticker | Patsi (Gold) | Rio 2022//176339989
 Sticker | Patsi (Holo) | Antwerp 2022//176312514
+Sticker | paz (Foil) | London 2018//176004403
 Sticker | Pegasus (Holo)//170165294
 Sticker | PENTA Sports  | Katowice 2015//33771375
 Sticker | PENTA Sports | DreamHack 2014//24668038
@@ -6150,6 +6705,7 @@ Sticker | rigoN (Gold) | Antwerp 2022//176312567
 Sticker | Rock, Paper, Scissors (Foil)//176290505
 Sticker | roeJ (Gold) | Paris 2023//176371942
 Sticker | roeJ (Holo) | Antwerp 2022//176312444
+Sticker | Rogue (Foil) | London 2018//176004611
 Sticker | Rogue (Holo) | London 2018//176004370
 Sticker | Rogue | London 2018//176004691
 Sticker | ropz (Foil) | Berlin 2019//176079952
@@ -6247,7 +6803,9 @@ Sticker | Skadoodle (Foil) | Boston 2018//175945394
 Sticker | Skadoodle | Krakow 2017//175905789
 Sticker | Skin Lover (Lenticular)//176327099
 Sticker | skullz (Gold) | Paris 2023//176372174
+Sticker | SmithZz | Cluj-Napoca 2015//75982381
 Sticker | smooya (Foil) | Katowice 2019//176036714
+Sticker | Snappi (Foil) | London 2018//176004679
 Sticker | Snappi (Gold) | Paris 2023//176372186
 Sticker | Snappi (Gold) | Rio 2022//176339959
 Sticker | Snax (Foil) | Boston 2018//175945416
@@ -6279,6 +6837,7 @@ Sticker | stavn (Gold) | Stockholm 2021//176274638
 Sticker | steel | Krakow 2017//175905945
 Sticker | sterling (Foil) | Katowice 2019//176036732
 Sticker | Stewie2K (Foil) | Katowice 2019//176036798
+Sticker | Stewie2K (Foil) | Krakow 2017//175905968
 Sticker | Stewie2K (Foil) | London 2018//176004515
 Sticker | Sticker Bomb Surf Ava (Foil)//176263138
 Sticker | Stone Scales (Foil)//176209317
@@ -6296,6 +6855,7 @@ Sticker | Syman Gaming (Foil) | Berlin 2019//176079929
 Sticker | T Rush (Holo)//176290507
 Sticker | tabseN (Foil) | Boston 2018//175945314
 Sticker | tabseN (Foil) | Krakow 2017//175905816
+Sticker | tabseN (Foil) | London 2018//176004570
 Sticker | TACO (Foil) | London 2018//176004497
 Sticker | TACO | Krakow 2017//175905918
 Sticker | TACO | MLG Columbus 2016//144424205
@@ -6305,7 +6865,9 @@ Sticker | tarik (Foil) | London 2018//176004446
 Sticker | tarik | Boston 2018//175945160
 Sticker | TaZ | Cologne 2015//61699201
 Sticker | TaZ | Krakow 2017//175905853
+Sticker | Team Dignitas (Foil) | Cluj-Napoca 2015//75982434
 Sticker | Team Dignitas (Foil) | Cologne 2016//157485929
+Sticker | Team Dignitas (Holo) | Cologne 2014//17080533
 Sticker | Team Dignitas (Holo) | Cologne 2016//157485791
 Sticker | Team Dignitas | Cluj-Napoca 2015//75982513
 Sticker | Team Dignitas | Cologne 2014//17080541
@@ -6328,6 +6890,8 @@ Sticker | Team Immunity | Cologne 2015//61699361
 Sticker | Team Kinguin | Cologne 2015//61699251
 Sticker | Team LDLC.com | Cologne 2014//17080537
 Sticker | Team LDLC.com | DreamHack 2014//24668026
+Sticker | Team Liquid (Foil) | Cologne 2016//157485776
+Sticker | Team Liquid (Foil) | Katowice 2019//176036650
 Sticker | Team Liquid (Foil) | Stockholm 2021//176269967
 Sticker | Team Liquid (Gold) | Antwerp 2022//176312286
 Sticker | Team Liquid (Gold) | Paris 2023//176371658
@@ -6383,6 +6947,7 @@ Sticker | Tuurtle (Gold) | Antwerp 2022//176312499
 Sticker | TV Installation (Lenticular)//176327096
 Sticker | Twistzz (Foil) | Berlin 2019//176079786
 Sticker | Twistzz (Foil) | Katowice 2019//176036681
+Sticker | Twistzz (Gold, Champion) | Antwerp 2022//176315240
 Sticker | Twistzz (Gold) | Paris 2023//176372178
 Sticker | Twistzz (Holo, Champion) | Antwerp 2022//176315235
 Sticker | Twistzz (Holo) | Antwerp 2022//176312350
@@ -6429,8 +6994,11 @@ Sticker | Virtus.Pro (Foil) | Stockholm 2021//176270060
 Sticker | Virtus.pro (Gold) | 2020 RMR//176222806
 Sticker | Virtus.Pro (Gold) | Stockholm 2021//176270075
 Sticker | Virtus.Pro (Holo) | Atlanta 2017//175865546
+Sticker | Virtus.Pro (Holo) | Boston 2018//175945287
+Sticker | Virtus.Pro (Holo) | Cologne 2014//17080547
 Sticker | Virtus.Pro (Holo) | Cologne 2016//157485829
 Sticker | Virtus.Pro (Holo) | London 2018//176004420
+Sticker | Virtus.Pro (Holo) | MLG Columbus 2016//144424225
 Sticker | Virtus.Pro (Holo) | Stockholm 2021//176269973
 Sticker | Virtus.Pro | Atlanta 2017//175865599
 Sticker | Virtus.Pro | Boston 2018//175945139
@@ -6453,10 +7021,12 @@ Sticker | Vitality | Katowice 2019//176036719
 Sticker | volt (Gold) | Paris 2023//176372438
 Sticker | Vortigaunt (Holo)//176116882
 Sticker | Vox Eminor  | Katowice 2015//33771342
+Sticker | Vox Eminor | Cologne 2014//17080546
 Sticker | Watermelon Flow (Holo)//176262753
 Sticker | Watermelon Strafe (Holo)//176262845
 Sticker | Watermelon Tier6 (Holo)//176262886
 Sticker | wayLander (Foil) | Boston 2018//175945268
+Sticker | wayLander (Foil) | Katowice 2019//176036792
 Sticker | wayLander | Krakow 2017//175905786
 Sticker | Welcome to the Clutch//7320980
 Sticker | WOOD7 (Gold) | Antwerp 2022//176312450
@@ -6468,6 +7038,7 @@ Sticker | WorldEdit (Foil) | Katowice 2019//176036532
 Sticker | WorldEdit (Foil) | Krakow 2017//175905900
 Sticker | WorldEdit | Krakow 2017//175905881
 Sticker | Woro2k (Gold) | Paris 2023//176372196
+Sticker | XANTARES (Gold) | Copenhagen 2024//176420864
 Sticker | xertioN (Gold) | Paris 2023//176372145
 Sticker | xertioN (Gold) | Rio 2022//176339982
 Sticker | xertioN (Holo) | Paris 2023//176372067
@@ -6497,6 +7068,7 @@ Sticker | yuurih (Holo) | Paris 2023//176371940
 Sticker | Zeus (Foil) | Boston 2018//175945207
 Sticker | Zeus (Foil) | Katowice 2019//176036795
 Sticker | Zeus (Foil) | London 2018//176004637
+Sticker | Zeus | Cluj-Napoca 2015//75982487
 Sticker | Zeus | Cologne 2016//157485824
 Sticker | Zeus | Krakow 2017//175905882
 Sticker | Zeus | MLG Columbus 2016//144424301
@@ -6861,6 +7433,7 @@ XM1014 | Entombed (Factory New)//176185946
 XM1014 | Entombed (Field-Tested)//176185910
 XM1014 | Entombed (Minimal Wear)//176186020
 XM1014 | Entombed (Well-Worn)//176185953
+XM1014 | Fallout Warning (Field-Tested)//1321579
 XM1014 | Frost Borre (Factory New)//176096996
 XM1014 | Frost Borre (Field-Tested)//176096779
 XM1014 | Grassland (Field-Tested)//1321359
@@ -6872,6 +7445,8 @@ XM1014 | Incinegator (Battle-Scarred)//176042577
 XM1014 | Incinegator (Field-Tested)//176042571
 XM1014 | Incinegator (Minimal Wear)//176042750
 XM1014 | Incinegator (Well-Worn)//176042626
+XM1014 | Jungle (Minimal Wear)//1591793
+XM1014 | Red Leather (Factory New)//14953200
 XM1014 | Red Python (Field-Tested)//15490349
 XM1014 | Red Python (Minimal Wear)//15492577
 XM1014 | Seasons (Battle-Scarred)//175880399
@@ -6880,6 +7455,7 @@ XM1014 | Seasons (Field-Tested)//175880326
 XM1014 | Seasons (Minimal Wear)//175880351
 XM1014 | Seasons (Well-Worn)//175880368
 XM1014 | Teclu Burner (Minimal Wear)//84444517
+XM1014 | Tranquility (Factory New)//23853282
 XM1014 | Tranquility (Field-Tested)//23853254
 XM1014 | Tranquility (Minimal Wear)//23853260
 XM1014 | Urban Perforated (Field-Tested)//1321415

@@ -66,14 +66,13 @@ async def main():
     while True:
         t1 = time()
         set_terminal_title(f"Fetching cs.money prices: #{i}")
-        data = json.loads(await connection.get_text("https://inventories.cs.money/5.0/load_bots_inventory/730", params={
+        data = json.loads(await connection.get_text("https://cs.money/5.0/load_bots_inventory/730", params={
             "hasTradeLock": "false",
             "limit": 60,
-            "minPrice": min_price*1.3,
-            "maxPrice": max_price*1.3,
+            "minPrice": min_price,
+            "maxPrice": max_price,
             "offset": i*60,
             "order": "asc",
-            "priceWithBonus": 0,
             "sort": "price",
             "type": item_types,
             "withStack": "true",
@@ -97,10 +96,6 @@ async def main():
             print("ERROR!!")
             print(json.dumps(data))
             quit(1)
-
-        if i == 60:
-            i = 0
-            min_price = data["items"][-1]["price"] - 0.01
 
         i += 1
         wait_time = 1.1 - (time() - t1)

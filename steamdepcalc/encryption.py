@@ -28,7 +28,7 @@ def _get_special_id():
     ids = ["d0_N0t_chAnge_thiS--|3CV2EWzq|--"]
 
     if sys.platform in ["win32", "cygwin", "msys"]:
-        ids += [_read_cmd("wmic csproduct get uuid").split("\n")[1].strip(), _read_reg(r"SOFTWARE\Microsoft\Cryptography", "MachineGuid"), _read_reg(r"SYSTEM\CurrentControlSet\Control\IDConfigDB\Hardware Profiles\0001", "HwProfileGuid")]
+        ids += [_read_cmd('powershell -command "(Get-CimInstance -Class Win32_ComputerSystemProduct).UUID"').strip(), _read_reg(r"SOFTWARE\Microsoft\Cryptography", "MachineGuid"), _read_reg(r"SYSTEM\CurrentControlSet\Control\IDConfigDB\Hardware Profiles\0001", "HwProfileGuid")]
 
     if sys.platform == "darwin":
         ids += [_read_cmd("ioreg -d2 -c IOPlatformExpertDevice | awk -F\\\" '/IOPlatformUUID/{print $(NF-1)}'")]

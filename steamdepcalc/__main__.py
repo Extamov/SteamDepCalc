@@ -75,7 +75,6 @@ async def main():
             "order": "asc",
             "sort": "price",
             "type": item_types,
-            "withStack": "true",
         }))
 
         if ("error" in data) and (data["error"] == 2):
@@ -92,13 +91,15 @@ async def main():
 
                 if (item_name not in new_data) or (item_price < new_data[item_name]["price"]):
                     new_data[item_name] = { "name": item_name, "price": item_price }
-        elif ("error" not in data) or (data["error"] != 2):
-            print("ERROR!!")
-            print(json.dumps(data))
-            quit(1)
+        elif ("error" in data) and (data["error"] == 429):
+            print("ERROR: Got rate-limited, retrying after a minute...")
+            await asyncio.sleep(65)
+            continue
+        else:
+            raise ValueError(json.dumps(data))
 
         i += 1
-        wait_time = 1.1 - (time() - t1)
+        wait_time = 4 - (time() - t1)
         await asyncio.sleep(wait_time)
 
     # =================================== steam item id fetch ===================================
@@ -201,7 +202,6 @@ def entrypoint():
     if sys.platform in ["win32", "cygwin", "msys"]:
         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
     asyncio.run(main())
-    sleep(2000000000)
 
 if __name__ == "__main__":
     entrypoint()

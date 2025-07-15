@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "steamdepcalc"
+version = "0.0.7"
+description = "A script that calculates best steam skins for buying from 3rd party and sell in steam."
+readme = "README.md"
+license = "GPL-3.0"
+license-files = ["LICENSE"]
+requires-python = ">=3.9"
+authors = [{name = "Extamov"}]
+dependencies = [
+	"asyncio",
+	"curl_cffi",
+	"pycryptodomex",
+	"tabulate",
+]
+
+[project.scripts]
+steamdepcalc = "steamdepcalc.__main__:entrypoint"

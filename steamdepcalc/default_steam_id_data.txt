@@ -1275,6 +1275,7 @@ AUG | Triqua (Minimal Wear)//175917282
 AUG | Triqua (Well-Worn)//175917246
 AUG | Wings (Factory New)//1321329
 AUG | Wings (Minimal Wear)//1321487
+Austin 2025 Viewer Pass//176516558
 AWP | Acheron (Battle-Scarred)//176012419
 AWP | Acheron (Factory New)//176012492
 AWP | Acheron (Field-Tested)//176012420
@@ -1423,6 +1424,7 @@ AWP | Worm God (Minimal Wear)//40092036
 AWP | Worm God (Well-Worn)//40092039
 B Squadron Officer | SAS//176096497
 Baggage Pin//170167787
+Berlin 2019 Overpass Souvenir Package//176081617
 Berlin 2019 Vertigo Souvenir Package//176081823
 Berlin 2019 Viewer Pass//176079645
 Bio-Haz Specialist | SWAT//176209464
@@ -1436,6 +1438,8 @@ Brigadier General Pin//175970597
 Buckshot | NSWC SEAL//176096519
 Cache Pin//170170467
 Canals Pin//175970593
+Charm | Baby Karat T//176460545
+Charm | Lil' Monster//176460511
 Chef d'Escadron Rouchard | Gendarmerie Nationale//176262893
 Chem-Haz Capitaine | Gendarmerie Nationale//176262965
 Chem-Haz Specialist | SWAT//176209362
@@ -1454,6 +1458,7 @@ Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman//176262679
 Cmdr. Mae 'Dead Cold' Jamison | SWAT//176209157
 Cobblestone Pin//170165266
 Col. Mangos Dabisi | Guerrilla Warfare//176263146
+Cologne 2016 Cache Souvenir Package//159385800
 Combine Helmet Pin//176116872
 Community Sticker Capsule 1 Key//8987881
 Copenhagen 2024 Mirage Souvenir Package//176421550
@@ -2452,6 +2457,7 @@ Jungle Rebel | Elite Crew//176263544
 Katowice 2019 Cache Souvenir Package//176039882
 Katowice 2019 Dust II Souvenir Package//176039878
 Katowice 2019 Inferno Souvenir Package//176039880
+Katowice 2019 Overpass Souvenir Package//176039879
 Krakow 2017 Overpass Souvenir Package//175907713
 Lambda Pin//176116891
 Lieutenant 'Tree Hugger' Farlow | SWAT//176263044
@@ -3347,6 +3353,7 @@ MP9 | Storm (Factory New)//14953133
 MP9 | Storm (Field-Tested)//14953110
 MP9 | Storm (Minimal Wear)//14953116
 Music Kit | Austin Wintory, Desert Fire//21431372
+Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia//176449428
 Music Kit | AWOLNATION, I Am//68169237
 Music Kit | bbno$, u mad!//176268071
 Music Kit | Beartooth, Disgusting//68169241
@@ -3548,6 +3555,7 @@ Office Pin//170167788
 Officer Jacques Beltram | Gendarmerie Nationale//176262695
 Operation Bloodhound Access Pass//49359024
 Operation Bravo Case//1546282
+Operation Breakout Case Key//14946477
 Operation Breakout Weapon Case//14962905
 Operation Broken Fang Case//176209154
 Operation Broken Fang Premium Pass//176209162
@@ -7030,6 +7038,7 @@ StatTrak™ Music Kit | Amon Tobin, All for Dust//176141025
 StatTrak™ Music Kit | Austin Wintory, Bachram//176120751
 StatTrak™ Music Kit | Austin Wintory, Desert Fire//68169233
 StatTrak™ Music Kit | Austin Wintory, Mocha Petal//176256902
+StatTrak™ Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia//176449421
 StatTrak™ Music Kit | AWOLNATION, I Am//68169240
 StatTrak™ Music Kit | bbno$, u mad!//176268072
 StatTrak™ Music Kit | Beartooth, Disgusting//68166245
@@ -7066,10 +7075,12 @@ StatTrak™ Music Kit | Neck Deep, Life's Not Out To Get You//175854243
 StatTrak™ Music Kit | Neck Deep, The Lowlife Pack//176233060
 StatTrak™ Music Kit | New Beat Fund, Sponge Fingerz//68169249
 StatTrak™ Music Kit | Noisia, Sharpened//68166238
+StatTrak™ Music Kit | Perfect World, Ay Hey//176475221
 StatTrak™ Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)//176332154
 StatTrak™ Music Kit | Proxy, Battlepack//68169239
 StatTrak™ Music Kit | Rad Cat, Reason//176414011
 StatTrak™ Music Kit | Roam, Backbone//175854257
+StatTrak™ Music Kit | Robert Allaire, Insurgency//175853445
 StatTrak™ Music Kit | Sarah Schachner, KOLIBRI//176256906
 StatTrak™ Music Kit | Sasha, LNOE//68169247
 StatTrak™ Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.//176233077
@@ -8072,8 +8083,11 @@ StatTrak™ XM1014 | Zombie Offensive (Factory New)//176288586
 StatTrak™ XM1014 | Zombie Offensive (Minimal Wear)//176288613
 StatTrak™ XM1014 | Zombie Offensive (Well-Worn)//176288607
 StatTrak™ Zeus x27 | Olympus (Battle-Scarred)//176414187
+StatTrak™ Zeus x27 | Olympus (Factory New)//176414183
 StatTrak™ Zeus x27 | Olympus (Field-Tested)//176414130
 StatTrak™ Zeus x27 | Olympus (Minimal Wear)//176414131
+StatTrak™ Zeus x27 | Olympus (Well-Worn)//176414215
+StatTrak™ Zeus x27 | Tosai (Factory New)//176506150
 Sticker | 00 Nation (Glitter) | Rio 2022//176339526
 Sticker | 00 Nation (Gold) | Rio 2022//176339613
 Sticker | 00 Nation (Holo) | Rio 2022//176339726
@@ -8084,6 +8098,7 @@ Sticker | 100 Thieves (Holo) | 2020 RMR//176222751
 Sticker | 100 Thieves | Boston 2018//175945130
 Sticker | 3DMAX (Foil) | Katowice 2015//33771368
 Sticker | 3DMAX | Katowice 2015//33771359
+Sticker | 910 (Gold) | Austin 2025//176517069
 Sticker | 910 (Holo) | Copenhagen 2024//176420911
 Sticker | 9INE (Glitter) | Paris 2023//176371650
 Sticker | 9INE (Gold) | Paris 2023//176371687
@@ -8108,6 +8123,7 @@ Sticker | acoR (Holo) | Paris 2023//176371985
 Sticker | adamS (Gold) | Copenhagen 2024//176420978
 Sticker | adamS (Holo) | Copenhagen 2024//176420754
 Sticker | Adepta Sororitas//176137032
+Sticker | AdreN (Foil) | Boston 2018//175945374
 Sticker | AdreN (Foil) | Krakow 2017//175906001
 Sticker | AdreN (Gold) | Berlin 2019//176080023
 Sticker | AdreN | Atlanta 2017//175865677
@@ -8180,6 +8196,7 @@ Sticker | apEX (Holo) | Rio 2022//176339955
 Sticker | apEX | Berlin 2019//176079714
 Sticker | apEX | Cluj-Napoca 2015//75982352
 Sticker | apEX | Cologne 2015//61699268
+Sticker | apEX | Cologne 2016//157485872
 Sticker | apEX | Krakow 2017//175905994
 Sticker | apEX | MLG Columbus 2016//144424237
 Sticker | Approaching Site (Foil)//176327056
@@ -8189,6 +8206,7 @@ Sticker | arT (Foil) | Katowice 2019//176036821
 Sticker | arT (Glitter) | Copenhagen 2024//176420497
 Sticker | arT (Glitter) | Rio 2022//176339764
 Sticker | arT (Gold) | Paris 2023//176372056
+Sticker | arT (Gold) | Rio 2022//176340071
 Sticker | arT (Gold) | Stockholm 2021//176274653
 Sticker | arT (Holo) | Copenhagen 2024//176420945
 Sticker | arT (Holo) | Paris 2023//176371877
@@ -8207,6 +8225,7 @@ Sticker | Astralis (Gold) | 2020 RMR//176222801
 Sticker | Astralis (Gold) | Antwerp 2022//176312179
 Sticker | Astralis (Gold) | Stockholm 2021//176269968
 Sticker | Astralis (Holo) | Antwerp 2022//176312330
+Sticker | Astralis (Holo) | Atlanta 2017//175865595
 Sticker | Astralis (Holo) | Cologne 2016//157485841
 Sticker | Astralis (Holo) | Katowice 2019//176036553
 Sticker | Astralis (Holo) | Krakow 2017//175905842
@@ -8221,6 +8240,7 @@ Sticker | Astralis | Krakow 2017//175905934
 Sticker | Astralis | MLG Columbus 2016//144424348
 Sticker | Astralis | Stockholm 2021//176269982
 Sticker | Attacker (Foil) | Berlin 2019//176079873
+Sticker | Attacker | Boston 2018//175951479
 Sticker | Attacker | Katowice 2019//176036750
 Sticker | autimatic (Foil) | Boston 2018//175945437
 Sticker | autimatic (Foil) | Katowice 2019//176036610
@@ -8235,6 +8255,7 @@ Sticker | Avangar | Boston 2018//175945334
 Sticker | Awp Country//45409213
 Sticker | Ax1Le (Glitter) | Copenhagen 2024//176420720
 Sticker | Ax1Le (Gold) | Antwerp 2022//176312483
+Sticker | Ax1Le (Gold) | Rio 2022//176340008
 Sticker | Ax1Le (Gold) | Stockholm 2021//176274600
 Sticker | Ax1Le (Holo) | Antwerp 2022//176312428
 Sticker | Ax1Le (Holo) | Copenhagen 2024//176420817
@@ -8245,6 +8266,7 @@ Sticker | AZR | Katowice 2019//176036688
 Sticker | Aztec//176091760
 Sticker | B-Day//176327063
 Sticker | B1ad3 (Foil) | Boston 2018//175945447
+Sticker | B1ad3 | Atlanta 2017//175865670
 Sticker | B1ad3 | Krakow 2017//175905948
 Sticker | b1t (Gold, Champion) | Copenhagen 2024//176422586
 Sticker | b1t (Gold) | Antwerp 2022//176312561
@@ -8264,6 +8286,8 @@ Sticker | Bad News Eagles (Gold) | Rio 2022//176339779
 Sticker | Bad News Eagles (Holo) | Antwerp 2022//176312102
 Sticker | Bad News Eagles (Holo) | Rio 2022//176339656
 Sticker | Baited (Holo)//176045195
+Sticker | balblna (Foil) | Boston 2018//175945423
+Sticker | balblna (Gold) | London 2018//176004320
 Sticker | balblna | London 2018//176004401
 Sticker | Bart4k (Gold) | Paris 2023//176372130
 Sticker | Bash (Holo)//7320990
@@ -8275,6 +8299,7 @@ Sticker | Battlefield Portal//176275961
 Sticker | BF 2042//176275953
 Sticker | BIG (Foil) | 2020 RMR//176222776
 Sticker | BIG (Foil) | Boston 2018//175945215
+Sticker | BIG (Foil) | Katowice 2019//176036762
 Sticker | BIG (Foil) | Stockholm 2021//176270048
 Sticker | BIG (Gold) | 2020 RMR//176222770
 Sticker | BIG (Gold) | Antwerp 2022//176312316
@@ -8373,6 +8398,7 @@ Sticker | buster (Foil) | Boston 2018//175945475
 Sticker | buster (Foil) | Katowice 2019//176036543
 Sticker | buster | Berlin 2019//176079848
 Sticker | byali (Foil) | Boston 2018//175945377
+Sticker | byali (Foil) | Krakow 2017//175905819
 Sticker | CacaNito (Glitter) | Copenhagen 2024//176420732
 Sticker | CacaNito (Gold) | Copenhagen 2024//176420974
 Sticker | CacaNito (Holo) | Copenhagen 2024//176420896
@@ -8441,6 +8467,7 @@ Sticker | Cloud9 (Gold) | Copenhagen 2024//176420590
 Sticker | Cloud9 (Gold) | Rio 2022//176339783
 Sticker | Cloud9 (Holo) | Antwerp 2022//176312149
 Sticker | Cloud9 (Holo) | Copenhagen 2024//176420633
+Sticker | Cloud9 (Holo) | Katowice 2019//176036551
 Sticker | Cloud9 (Holo) | Krakow 2017//175905844
 Sticker | Cloud9 (Holo) | London 2018//176004409
 Sticker | Cloud9 (Holo) | MLG Columbus 2016//144424315
@@ -8538,6 +8565,7 @@ Sticker | DeadFox | Katowice 2019//176036574
 Sticker | decenty (Holo) | Copenhagen 2024//176420649
 Sticker | degster (Glitter) | Antwerp 2022//176312066
 Sticker | degster (Gold) | Paris 2023//176372188
+Sticker | degster (Gold) | Rio 2022//176340067
 Sticker | degster (Holo) | Antwerp 2022//176312473
 Sticker | degster (Holo) | Paris 2023//176372060
 Sticker | DemQQ (Gold) | Paris 2023//176372113
@@ -8547,6 +8575,7 @@ Sticker | denis (Foil) | Krakow 2017//175905902
 Sticker | dennis (Foil) | Cologne 2015//61699290
 Sticker | dennis (Foil) | Katowice 2019//176036820
 Sticker | dennis (Foil) | Krakow 2017//175905919
+Sticker | dennis (Foil) | London 2018//176004536
 Sticker | dennis | Cluj-Napoca 2015//75982412
 Sticker | dennis | Krakow 2017//175905817
 Sticker | dephh | Berlin 2019//176079768
@@ -8555,6 +8584,7 @@ Sticker | dephh | London 2018//176004466
 Sticker | Dessert Eagle//175966746
 Sticker | DeStiNy | Berlin 2019//176079877
 Sticker | device (Foil) | Berlin 2019//176079809
+Sticker | device (Foil) | Boston 2018//175945181
 Sticker | device (Foil) | Katowice 2019//176036806
 Sticker | device (Gold) | Berlin 2019//176080046
 Sticker | device (Gold) | Stockholm 2021//176274625
@@ -8573,6 +8603,7 @@ Sticker | dexter (Foil) | Katowice 2019//176036835
 Sticker | dexter (Glitter) | Paris 2023//176372006
 Sticker | dexter (Gold) | Rio 2022//176339996
 Sticker | dexter (Holo) | Paris 2023//176372137
+Sticker | dexter (Holo) | Shanghai 2024//176474917
 Sticker | dexter | Berlin 2019//176079872
 Sticker | dexter | Katowice 2019//176036675
 Sticker | dgt (Glitter) | Antwerp 2022//176312183
@@ -8594,6 +8625,7 @@ Sticker | DJ Safecracker (Lenticular)//176327094
 Sticker | Don't Worry (Holo)//170165293
 Sticker | Don't Worry//84510754
 Sticker | donk (Glitter) | Copenhagen 2024//176420716
+Sticker | donk (Gold) | Shanghai 2024//176474905
 Sticker | donk (Holo) | Copenhagen 2024//176420810
 Sticker | donk | Copenhagen 2024//176420571
 Sticker | Door Stuck (Foil)//176091782
@@ -8645,6 +8677,7 @@ Sticker | Dycha (Holo) | Rio 2022//176339795
 Sticker | Econometer (Lenticular)//176413996
 Sticker | ECSTATIC (Glitter) | Copenhagen 2024//176420556
 Sticker | Edward (Foil) | Boston 2018//175945265
+Sticker | Edward (Foil) | Cologne 2015//61699332
 Sticker | Edward (Foil) | Krakow 2017//175906002
 Sticker | Edward (Foil) | London 2018//176004450
 Sticker | Edward | Cluj-Napoca 2015//75982470
@@ -8662,9 +8695,11 @@ Sticker | electronic (Foil) | Boston 2018//175945415
 Sticker | electronic (Foil) | Krakow 2017//175906014
 Sticker | electronic (Foil) | London 2018//176004423
 Sticker | electronic (Gold) | Antwerp 2022//176312612
+Sticker | electronic (Gold) | Austin 2025//176517104
 Sticker | electronic (Gold) | Berlin 2019//176079798
 Sticker | electronic (Gold) | Copenhagen 2024//176420892
 Sticker | electronic (Gold) | Paris 2023//176372142
+Sticker | electronic (Gold) | Shanghai 2024//176475405
 Sticker | electroNic (Gold) | Stockholm 2021//176274565
 Sticker | electronic (Holo) | Antwerp 2022//176312211
 Sticker | electronic (Holo) | Copenhagen 2024//176420752
@@ -8676,6 +8711,7 @@ Sticker | EliGE (Gold) | Copenhagen 2024//176420842
 Sticker | EliGE (Gold) | Paris 2023//176372090
 Sticker | EliGE (Holo) | Antwerp 2022//176312458
 Sticker | EliGE | Atlanta 2017//175865647
+Sticker | EliGE | Boston 2018//175945338
 Sticker | EliGE | Cologne 2016//157485799
 Sticker | EliGE | Rio 2022//176340040
 Sticker | EmiliaQAQ (Gold) | Copenhagen 2024//176420905
@@ -8698,6 +8734,7 @@ Sticker | Epsilon eSports (Holo) | Cologne 2014//17080558
 Sticker | Epsilon eSports | Cologne 2014//17080557
 Sticker | erkaSt (Foil) | Berlin 2019//176079927
 Sticker | erkaSt (Foil) | Katowice 2019//176036793
+Sticker | es3tag (Gold) | Rio 2022//176340007
 Sticker | es3tag (Holo) | Rio 2022//176339843
 Sticker | ESL (Foil) | Cologne 2016//157485792
 Sticker | ESL (Holo) | Cologne 2016//157485834
@@ -8726,6 +8763,7 @@ Sticker | Evil Geniuses (Gold) | Stockholm 2021//176270007
 Sticker | Evil Geniuses (Holo) | 2020 RMR//176222708
 Sticker | Evil Geniuses (Holo) | Stockholm 2021//176269952
 Sticker | ewjerkz (Glitter) | Copenhagen 2024//176420775
+Sticker | Ex6TenZ (Foil) | Cluj-Napoca 2015//75982486
 Sticker | Ex6TenZ (Foil) | London 2018//176004606
 Sticker | Ex6TenZ | Cluj-Napoca 2015//75982357
 Sticker | Ex6TenZ | Cologne 2015//61699275
@@ -8751,12 +8789,14 @@ Sticker | FalleN (Glitter) | Antwerp 2022//176312426
 Sticker | FalleN (Glitter) | Copenhagen 2024//176420779
 Sticker | FalleN (Glitter) | Rio 2022//176339847
 Sticker | FalleN (Gold) | Antwerp 2022//176312440
+Sticker | FalleN (Gold) | Austin 2025//176516538
 Sticker | FalleN (Gold) | Berlin 2019//176079991
 Sticker | FalleN (Gold) | Copenhagen 2024//176420744
 Sticker | FalleN (Gold) | Rio 2022//176340016
 Sticker | FalleN (Holo) | Antwerp 2022//176312493
 Sticker | FalleN (Holo) | Copenhagen 2024//176420897
 Sticker | FalleN | Antwerp 2022//176312068
+Sticker | FalleN | Cologne 2016//157485816
 Sticker | FalleN | Copenhagen 2024//176420677
 Sticker | FalleN | Krakow 2017//175905839
 Sticker | FalleN | London 2018//176004325
@@ -8782,6 +8822,7 @@ Sticker | FaZe Clan (Foil) | Stockholm 2021//176270004
 Sticker | FaZe Clan (Glitter) | Copenhagen 2024//176420516
 Sticker | FaZe Clan (Glitter) | Rio 2022//176339499
 Sticker | FaZe Clan (Gold) | Antwerp 2022//176312346
+Sticker | FaZe Clan (Gold) | Austin 2025//176516609
 Sticker | FaZe Clan (Gold) | Paris 2023//176371845
 Sticker | FaZe Clan (Gold) | Stockholm 2021//176270034
 Sticker | FaZe Clan (Holo) | Antwerp 2022//176312160
@@ -8803,10 +8844,12 @@ Sticker | FaZe Clan | Krakow 2017//175905795
 Sticker | FaZe Clan | London 2018//176004385
 Sticker | FaZe Clan | MLG Columbus 2016//144424188
 Sticker | FaZe Clan | Stockholm 2021//176269997
+Sticker | felps (Foil) | Boston 2018//175945372
 Sticker | felps (Foil) | Katowice 2019//176036815
 Sticker | felps (Foil) | Krakow 2017//175905913
 Sticker | felps (Gold) | Paris 2023//176372184
 Sticker | fer (Foil) | Berlin 2019//176079736
+Sticker | fer (Foil) | Cologne 2015//61699336
 Sticker | fer (Foil) | Katowice 2019//176036679
 Sticker | fer (Foil) | Krakow 2017//175905975
 Sticker | fer (Glitter) | Rio 2022//176339805
@@ -8818,6 +8861,7 @@ Sticker | fer (Holo) | Rio 2022//176339881
 Sticker | fer | Boston 2018//175945273
 Sticker | fer | Cologne 2016//157485808
 Sticker | fer | Krakow 2017//175905885
+Sticker | fer | London 2018//176004364
 Sticker | fer | MLG Columbus 2016//144424257
 Sticker | fer | Rio 2022//176339792
 Sticker | Fight like a Girl//20807273
@@ -8835,6 +8879,7 @@ Sticker | FlameZ (Gold) | Paris 2023//176372183
 Sticker | FlameZ (Holo) | Copenhagen 2024//176420646
 Sticker | flamie (Foil) | Berlin 2019//176079862
 Sticker | flamie (Foil) | Boston 2018//175945347
+Sticker | flamie (Foil) | Cologne 2015//61699213
 Sticker | flamie (Foil) | Katowice 2019//176036691
 Sticker | flamie (Foil) | London 2018//176004477
 Sticker | flamie (Gold) | Berlin 2019//176079913
@@ -8845,6 +8890,7 @@ Sticker | Flash Gaming (Foil) | Boston 2018//175951575
 Sticker | Flash Gaming | Boston 2018//175951502
 Sticker | Flashblack (Holo)//176290511
 Sticker | Flickshot//32300642
+Sticker | Flipsid3 Tactics (Foil) | Boston 2018//175945444
 Sticker | Flipsid3 Tactics (Foil) | Cluj-Napoca 2015//75982353
 Sticker | Flipsid3 Tactics (Foil) | Cologne 2015//61699247
 Sticker | Flipsid3 Tactics (Foil) | Katowice 2015//33771369
@@ -8886,6 +8932,7 @@ Sticker | Fnatic (Gold) | Paris 2023//176371895
 Sticker | Fnatic (Gold) | Rio 2022//176339707
 Sticker | Fnatic (Holo) | 2020 RMR//176222724
 Sticker | Fnatic (Holo) | Atlanta 2017//175865583
+Sticker | Fnatic (Holo) | Boston 2018//175945158
 Sticker | Fnatic (Holo) | Krakow 2017//175905883
 Sticker | Fnatic (Holo) | London 2018//176004331
 Sticker | Fnatic (Holo) | MLG Columbus 2016//144424255
@@ -8919,6 +8966,7 @@ Sticker | forZe eSports (Holo) | Antwerp 2022//176312244
 Sticker | forZe eSports (Holo) | Berlin 2019//176079871
 Sticker | forZe eSports (Holo) | Paris 2023//176371754
 Sticker | fox | Atlanta 2017//175865660
+Sticker | fox | Cologne 2016//157485906
 Sticker | freakazoid (Foil) | MLG Columbus 2016//144424333
 Sticker | freakazoid | MLG Columbus 2016//144424302
 Sticker | Freeman (Foil) | Katowice 2019//176036814
@@ -8929,6 +8977,7 @@ Sticker | friberg | Cluj-Napoca 2015//75982392
 Sticker | friberg | Cologne 2015//61699206
 Sticker | Friend Code//176091764
 Sticker | frozen (Glitter) | Rio 2022//176339830
+Sticker | frozen (Gold) | Austin 2025//176516835
 Sticker | frozen (Gold) | Copenhagen 2024//176420876
 Sticker | frozen (Gold) | Paris 2023//176372143
 Sticker | frozen (Holo) | Copenhagen 2024//176420771
@@ -8941,6 +8990,7 @@ Sticker | FURIA (Glitter) | Antwerp 2022//176312043
 Sticker | FURIA (Glitter) | Copenhagen 2024//176420614
 Sticker | FURIA (Gold) | 2020 RMR//176222777
 Sticker | FURIA (Gold) | Antwerp 2022//176312295
+Sticker | FURIA (Gold) | Copenhagen 2024//176420692
 Sticker | FURIA (Gold) | Paris 2023//176371757
 Sticker | FURIA (Gold) | Rio 2022//176339689
 Sticker | FURIA (Gold) | Stockholm 2021//176270020
@@ -8954,6 +9004,7 @@ Sticker | FURIA (Holo) | Rio 2022//176339705
 Sticker | FURIA (Holo) | Stockholm 2021//176269955
 Sticker | FURIA | Berlin 2019//176079766
 Sticker | FURIA | Katowice 2019//176036570
+Sticker | Furlan | Cluj-Napoca 2015//75998719
 Sticker | Furlan | Cologne 2015//61699352
 Sticker | G2 (Foil) | 2020 RMR//176222780
 Sticker | G2 (Gold) | 2020 RMR//176222779
@@ -8989,12 +9040,15 @@ Sticker | G2 Esports | MLG Columbus 2016//144424334
 Sticker | gade | Berlin 2019//176079850
 Sticker | Gambit (Foil) | Krakow 2017//175905967
 Sticker | Gambit | Krakow 2017//175905846
+Sticker | Gambit Esports (Foil) | Boston 2018//175945399
 Sticker | Gambit Esports (Foil) | London 2018//176004468
 Sticker | Gambit Esports (Holo) | Boston 2018//175945302
 Sticker | Gambit Esports (Holo) | London 2018//176004465
 Sticker | Gambit Esports | Boston 2018//175945233
+Sticker | Gambit Gaming (Foil) | MLG Columbus 2016//144424351
 Sticker | Gambit Gaming (Foil) | Stockholm 2021//176269963
 Sticker | Gambit Gaming (Gold) | Stockholm 2021//176270009
+Sticker | Gambit Gaming (Holo) | Atlanta 2017//175865570
 Sticker | Gambit Gaming (Holo) | Cologne 2016//157485779
 Sticker | Gambit Gaming (Holo) | MLG Columbus 2016//144424269
 Sticker | Gambit Gaming (Holo) | Stockholm 2021//176269942
@@ -9015,8 +9069,11 @@ Sticker | GeT_RiGhT | Cluj-Napoca 2015//75982401
 Sticker | GeT_RiGhT | Cologne 2015//61699161
 Sticker | GeT_RiGhT | Cologne 2016//157485881
 Sticker | GeT_RiGhT | MLG Columbus 2016//144424252
+Sticker | gla1ve (Foil) | Atlanta 2017//175865772
+Sticker | gla1ve (Foil) | Boston 2018//175945239
 Sticker | gla1ve (Foil) | Cologne 2016//157485953
 Sticker | gla1ve (Foil) | Katowice 2019//176036709
+Sticker | gla1ve (Foil) | Krakow 2017//175905907
 Sticker | gla1ve (Foil) | London 2018//176004388
 Sticker | gla1ve (Gold) | Berlin 2019//176079971
 Sticker | gla1ve (Holo) | Antwerp 2022//176312338
@@ -9056,6 +9113,7 @@ Sticker | Good Sports//176327072
 Sticker | Good Versus Evil//176327070
 Sticker | Goofy (Gold) | Copenhagen 2024//176421017
 Sticker | Gratisfaction (Foil) | Katowice 2019//176036668
+Sticker | Gratisfaction (Gold) | Berlin 2019//176080068
 Sticker | Gratisfaction | Berlin 2019//176079707
 Sticker | Gratisfaction | Katowice 2019//176036802
 Sticker | Grayhound Gaming (Foil) | Berlin 2019//176079803
@@ -9101,6 +9159,8 @@ Sticker | hades (Holo) | Paris 2023//176372075
 Sticker | hallzerk (Holo) | Copenhagen 2024//176420476
 Sticker | hampus (Gold) | Antwerp 2022//176312516
 Sticker | Handle With Care (Holo)//176260764
+Sticker | Happy | Atlanta 2017//175865620
+Sticker | Happy | Boston 2018//175945241
 Sticker | Happy | Cluj-Napoca 2015//75982391
 Sticker | Hard Cluck Life//84510748
 Sticker | hatz (Holo) | Antwerp 2022//176312522
@@ -9123,6 +9183,7 @@ Sticker | Hello M4A4//176209432
 Sticker | Hello MAC-10 (Gold)//176209517
 Sticker | Hello MAC-10//176209511
 Sticker | Hello MP7 (Gold)//176209601
+Sticker | Hello P90 (Gold)//176209640
 Sticker | Hello PP-Bizon (Gold)//176209583
 Sticker | Hello SG 553 (Gold)//176209391
 Sticker | Hello SG 553//176209390
@@ -9174,6 +9235,7 @@ Sticker | Hobbit (Holo) | Antwerp 2022//176312554
 Sticker | Hobbit (Holo) | Copenhagen 2024//176420645
 Sticker | Hobbit (Holo) | Rio 2022//176339706
 Sticker | HObbit | Stockholm 2021//176274575
+Sticker | hooch | Cologne 2016//157485933
 Sticker | HooXi (Gold) | Paris 2023//176371926
 Sticker | HooXi (Holo) | Antwerp 2022//176312366
 Sticker | HooXi (Holo) | Copenhagen 2024//176420806
@@ -9234,12 +9296,14 @@ Sticker | INS | Rio 2022//176339612
 Sticker | interz (Gold) | Rio 2022//176339555
 Sticker | interz (Gold) | Stockholm 2021//176274644
 Sticker | interz (Holo) | Antwerp 2022//176312194
+Sticker | interz (Holo) | Rio 2022//176339692
 Sticker | interz | Rio 2022//176339743
 Sticker | Into The Breach (Glitter) | Paris 2023//176371648
 Sticker | Into The Breach (Gold) | Paris 2023//176371809
 Sticker | Into The Breach (Holo) | Paris 2023//176371686
 Sticker | INTZ E-SPORTS CLUB (Holo) | Berlin 2019//176079912
 Sticker | INTZ E-SPORTS CLUB | Berlin 2019//176079777
+Sticker | Iron Halo//176516948
 Sticker | isak (Glitter) | Copenhagen 2024//176420572
 Sticker | isak (Glitter) | Rio 2022//176339931
 Sticker | isak (Gold) | Paris 2023//176372176
@@ -9266,6 +9330,7 @@ Sticker | JaCkz | Berlin 2019//176079676
 Sticker | Jame (Foil) | Berlin 2019//176079948
 Sticker | Jame (Gold, Champion) | Rio 2022//176344587
 Sticker | Jame (Gold) | Copenhagen 2024//176420970
+Sticker | Jame (Gold) | Rio 2022//176339900
 Sticker | Jame (Gold) | Stockholm 2021//176274649
 Sticker | Jame (Holo) | Antwerp 2022//176312549
 Sticker | Jame (Holo) | Stockholm 2021//176274579
@@ -9289,6 +9354,7 @@ Sticker | jkaem (Gold) | Paris 2023//176372123
 Sticker | jkaem (Holo) | Copenhagen 2024//176420831
 Sticker | jkaem | MLG Columbus 2016//144424212
 Sticker | jks (Foil) | Katowice 2019//176036829
+Sticker | jks (Foil) | London 2018//176004332
 Sticker | jks (Glitter) | Paris 2023//176371900
 Sticker | jks (Gold) | Paris 2023//176371948
 Sticker | jks (Holo) | Paris 2023//176372100
@@ -9313,6 +9379,7 @@ Sticker | JT (Holo) | Copenhagen 2024//176420828
 Sticker | JT (Holo) | Paris 2023//176372052
 Sticker | juanflatroo (Gold) | Paris 2023//176372157
 Sticker | juanflatroo (Holo) | Paris 2023//176371873
+Sticker | JUGi (Foil) | London 2018//176004517
 Sticker | JUGi | Berlin 2019//176079883
 Sticker | JUGi | London 2018//176004448
 Sticker | junior (Holo) | Antwerp 2022//176312415
@@ -9334,6 +9401,7 @@ Sticker | kabal (Gold) | Antwerp 2022//176312504
 Sticker | kabal (Holo) | Rio 2022//176339763
 Sticker | karrigan (Foil) | Berlin 2019//176079986
 Sticker | karrigan (Foil) | Boston 2018//175945333
+Sticker | karrigan (Foil) | Cologne 2015//61699219
 Sticker | karrigan (Foil) | Krakow 2017//175905949
 Sticker | karrigan (Foil) | London 2018//176004499
 Sticker | karrigan (Glitter) | Copenhagen 2024//176420534
@@ -9388,6 +9456,7 @@ Sticker | Killjoy (Holo)//176099151
 Sticker | Kimberly (Holo)//170167793
 Sticker | Kimberly//84444551
 Sticker | kinqie | Berlin 2019//176079703
+Sticker | kioShiMa (Foil) | Atlanta 2017//175865569
 Sticker | kioShiMa | Cluj-Napoca 2015//75982330
 Sticker | kioShiMa | Cologne 2015//61699234
 Sticker | Kitted Out//176260758
@@ -9461,6 +9530,7 @@ Sticker | LEGIJA (Foil) | Boston 2018//175945458
 Sticker | LEGIJA (Foil) | Krakow 2017//175905985
 Sticker | LEGIJA | Krakow 2017//175905915
 Sticker | Lekr0 (Foil) | Berlin 2019//176079743
+Sticker | Lekr0 (Foil) | Boston 2018//175945468
 Sticker | Lekr0 (Foil) | Katowice 2019//176036859
 Sticker | Lekr0 (Foil) | London 2018//176004473
 Sticker | Lekr0 | Berlin 2019//176079750
@@ -9487,6 +9557,7 @@ Sticker | LNZ | Stockholm 2021//176274559
 Sticker | London Conspiracy | Cologne 2014//17080548
 Sticker | Longevity (Foil)//175922245
 Sticker | Lore Poison Frog (Foil)//176263115
+Sticker | Lotus (Glitter)//176413989
 Sticker | LoveYY | Boston 2018//175951532
 Sticker | Loving Eyes (Holo)//176413990
 Sticker | loWel (Foil) | Berlin 2019//176079708
@@ -9519,6 +9590,8 @@ Sticker | Lynn Vision (Holo) | Copenhagen 2024//176420541
 Sticker | m0NESY (Glitter) | Antwerp 2022//176312145
 Sticker | m0NESY (Glitter) | Copenhagen 2024//176420660
 Sticker | m0NESY (Glitter) | Paris 2023//176372042
+Sticker | m0NESY (Gold) | Antwerp 2022//176312603
+Sticker | m0NESY (Gold) | Copenhagen 2024//176420811
 Sticker | m0NESY (Gold) | Paris 2023//176372112
 Sticker | m0NESY (Holo) | Antwerp 2022//176312360
 Sticker | m0NESY (Holo) | Copenhagen 2024//176420724
@@ -9535,6 +9608,7 @@ Sticker | Magisk (Gold) | Antwerp 2022//176312542
 Sticker | Magisk (Gold) | Paris 2023//176372095
 Sticker | Magisk (Holo) | Antwerp 2022//176312380
 Sticker | Magisk (Holo) | Paris 2023//176371856
+Sticker | Magisk | Atlanta 2017//175865653
 Sticker | Magisk | Berlin 2019//176079716
 Sticker | Magisk | Katowice 2019//176036660
 Sticker | Magisk | Krakow 2017//175905865
@@ -9543,8 +9617,10 @@ Sticker | magixx (Gold) | Rio 2022//176339941
 Sticker | magixx (Holo) | Antwerp 2022//176312424
 Sticker | Mahjong Rooster//175922254
 Sticker | Mahjong Zhong//175922235
+Sticker | MAJ3R (Foil) | Boston 2018//175945383
 Sticker | MAJ3R (Foil) | London 2018//176004367
 Sticker | MAJ3R (Glitter) | Copenhagen 2024//176420807
+Sticker | MAJ3R (Holo) | Copenhagen 2024//176420943
 Sticker | MAJ3R | London 2018//176004596
 Sticker | malta (Foil) | Katowice 2019//176036737
 Sticker | malta | Katowice 2019//176036588
@@ -9574,9 +9650,11 @@ Sticker | Miami Tier6 (Holo)//176262786
 Sticker | MIBR (Foil) | Berlin 2019//176079921
 Sticker | MIBR (Holo) | Antwerp 2022//176312218
 Sticker | MIBR (Holo) | Berlin 2019//176079733
+Sticker | MIBR (Holo) | London 2018//176004351
 Sticker | MIBR | Berlin 2019//176079701
 Sticker | MICHU | London 2018//176004556
 Sticker | mir (Foil) | Boston 2018//175945321
+Sticker | mir (Foil) | London 2018//176004439
 Sticker | mir (Holo) | Copenhagen 2024//176420851
 Sticker | mir | Krakow 2017//175905829
 Sticker | misutaaa (Gold) | Stockholm 2021//176274643
@@ -9593,6 +9671,7 @@ Sticker | mopoz (Holo) | Copenhagen 2024//176420939
 Sticker | mou (Foil) | Boston 2018//175945410
 Sticker | mou (Foil) | Krakow 2017//175905894
 Sticker | mou (Foil) | London 2018//176004588
+Sticker | mou | Cologne 2016//157485913
 Sticker | mou | Krakow 2017//175905855
 Sticker | mousesports (Foil) | Berlin 2019//176079943
 Sticker | mousesports (Foil) | Boston 2018//175945140
@@ -9606,6 +9685,7 @@ Sticker | mousesports | Berlin 2019//176079889
 Sticker | mousesports | Boston 2018//175945316
 Sticker | mousesports | Cluj-Napoca 2015//75982475
 Sticker | mousesports | Cologne 2015//61699267
+Sticker | mousesports | Cologne 2016//157485975
 Sticker | mousesports | Krakow 2017//175905999
 Sticker | mousesports | London 2018//176004686
 Sticker | mousesports | MLG Columbus 2016//144424410
@@ -9627,7 +9707,10 @@ Sticker | Movistar Riders (Holo) | Stockholm 2021//176269962
 Sticker | Movistar Riders | Stockholm 2021//176269990
 Sticker | Mr. Chompy (Foil)//176275966
 Sticker | Mr. Chompy//176275954
+Sticker | MSL (Foil) | Boston 2018//175945358
+Sticker | MSL (Foil) | London 2018//176004392
 Sticker | MSL | Boston 2018//175945290
+Sticker | MSL | Cologne 2016//157486003
 Sticker | MSL | Krakow 2017//175905799
 Sticker | MSL | London 2018//176004408
 Sticker | MTS GameGod Wolf (Holo) | Cologne 2014//17080555
@@ -9641,6 +9724,7 @@ Sticker | n0rb3r7 | Katowice 2019//176036667
 Sticker | n0thing | Cologne 2015//61699176
 Sticker | n0thing | Katowice 2019//176036577
 Sticker | n0thing | Krakow 2017//175905851
+Sticker | n0thing | MLG Columbus 2016//144424240
 Sticker | n1ssim (Holo) | Copenhagen 2024//176420676
 Sticker | Nademan//176260774
 Sticker | NAF (Foil) | Berlin 2019//176079670
@@ -9660,6 +9744,7 @@ Sticker | nafany (Holo) | Stockholm 2021//176274577
 Sticker | Natus Vincere (Foil) | 2020 RMR//176222762
 Sticker | Natus Vincere (Foil) | Berlin 2019//176079712
 Sticker | Natus Vincere (Foil) | Boston 2018//175945308
+Sticker | Natus Vincere (Foil) | Cluj-Napoca 2015//75982446
 Sticker | Natus Vincere (Foil) | Katowice 2015//33771360
 Sticker | Natus Vincere (Foil) | Krakow 2017//175905849
 Sticker | Natus Vincere (Foil) | MLG Columbus 2016//144424270
@@ -9702,6 +9787,7 @@ Sticker | NBK- (Foil) | Krakow 2017//175905956
 Sticker | NBK- | Berlin 2019//176079780
 Sticker | NBK- | Cluj-Napoca 2015//75982328
 Sticker | NBK- | Cologne 2015//61699185
+Sticker | NBK- | Cologne 2016//157485879
 Sticker | NBK- | Katowice 2019//176036726
 Sticker | NBK- | Krakow 2017//175905798
 Sticker | neaLaN (Gold) | Berlin 2019//176080082
@@ -9714,6 +9800,7 @@ Sticker | Nemiga (Foil) | 2020 RMR//176222794
 Sticker | Nemiga (Gold) | 2020 RMR//176222805
 Sticker | Nemiga (Holo) | 2020 RMR//176222739
 Sticker | NEO (Foil) | Berlin 2019//176079745
+Sticker | NEO (Foil) | MLG Columbus 2016//144424258
 Sticker | NEO | Atlanta 2017//175865688
 Sticker | NEO | Berlin 2019//176079819
 Sticker | NEO | Boston 2018//175945357
@@ -9822,6 +9909,7 @@ Sticker | North | Boston 2018//175945235
 Sticker | North | Krakow 2017//175906005
 Sticker | North | London 2018//176004668
 Sticker | Not A Bot//176358759
+Sticker | NQZ (Glitter) | Shanghai 2024//176475268
 Sticker | NQZ (Gold) | Copenhagen 2024//176420995
 Sticker | NQZ (Gold) | Rio 2022//176339845
 Sticker | NQZ (Holo) | Rio 2022//176340013
@@ -9891,7 +9979,9 @@ Sticker | pashaBiceps | MLG Columbus 2016//144424321
 Sticker | Patsi (Gold) | Rio 2022//176339989
 Sticker | Patsi (Holo) | Antwerp 2022//176312514
 Sticker | Patti (Holo) | Copenhagen 2024//176420751
+Sticker | paz (Foil) | Boston 2018//175945389
 Sticker | paz (Foil) | London 2018//176004403
+Sticker | peet (Foil) | Cologne 2015//61699313
 Sticker | Pegasus (Holo)//170165294
 Sticker | PENTA Sports  | Katowice 2015//33771375
 Sticker | PENTA Sports | DreamHack 2014//24668038
@@ -9930,6 +10020,7 @@ Sticker | Poorly Drawn Number K (Holo)//176233066
 Sticker | Poorly Drawn Terrorist (Holo)//176233076
 Sticker | Poorly Drawn Terrorist//176233064
 Sticker | Primaris Keychain//176137033
+Sticker | pronax (Foil) | Cluj-Napoca 2015//75982413
 Sticker | pronax (Foil) | Cologne 2015//61699300
 Sticker | pronax | Cluj-Napoca 2015//75982346
 Sticker | pronax | Cologne 2015//61699162
@@ -9955,9 +10046,11 @@ Sticker | Queenix (Gold) | Copenhagen 2024//176420872
 Sticker | Queenix (Holo) | Copenhagen 2024//176420781
 Sticker | r3salt (Gold) | Paris 2023//176372171
 Sticker | r3salt (Holo) | Paris 2023//176372179
+Sticker | rain (Foil) | Boston 2018//175945178
 Sticker | rain (Foil) | Krakow 2017//175905916
 Sticker | rain (Foil) | London 2018//176004480
 Sticker | rain (Gold, Champion) | Antwerp 2022//176315244
+Sticker | rain (Gold) | Austin 2025//176517207
 Sticker | rain (Gold) | Paris 2023//176371997
 Sticker | rain (Holo, Champion) | Antwerp 2022//176315241
 Sticker | rain (Holo) | Antwerp 2022//176312312
@@ -9983,6 +10076,7 @@ Sticker | refrezh (Holo) | Antwerp 2022//176312451
 Sticker | refrezh (Holo) | Rio 2022//176339848
 Sticker | refrezh (Holo) | Stockholm 2021//176274544
 Sticker | refrezh | Rio 2022//176339742
+Sticker | reltuC | MLG Columbus 2016//144424398
 Sticker | Renegades (Foil) | 2020 RMR//176222786
 Sticker | Renegades (Foil) | Stockholm 2021//176269994
 Sticker | Renegades (Glitter) | Antwerp 2022//176312135
@@ -10032,6 +10126,7 @@ Sticker | ropz (Glitter) | Antwerp 2022//176312349
 Sticker | ropz (Glitter) | Paris 2023//176371945
 Sticker | ropz (Glitter) | Rio 2022//176339679
 Sticker | ropz (Gold, Champion) | Antwerp 2022//176315238
+Sticker | ropz (Gold) | Copenhagen 2024//176420492
 Sticker | ropz (Gold) | Paris 2023//176372125
 Sticker | ropz (Gold) | Rio 2022//176340001
 Sticker | ropz (Holo, Champion) | Antwerp 2022//176315242
@@ -10045,6 +10140,7 @@ Sticker | rox (Holo) | Antwerp 2022//176312110
 Sticker | rox | Antwerp 2022//176312188
 Sticker | RpK (Foil) | Katowice 2019//176036827
 Sticker | RpK | Cluj-Napoca 2015//75982340
+Sticker | RUBINO | Cologne 2016//157485977
 Sticker | Runtime (Holo)//176260773
 Sticker | RUSH (Foil) | Boston 2018//175945404
 Sticker | RUSH (Foil) | London 2018//176004416
@@ -10053,6 +10149,7 @@ Sticker | Rush 4x20 (Holo)//176091761
 Sticker | Rush More//176327076
 Sticker | S0tF1k (Foil) | Katowice 2019//176036639
 Sticker | S0tF1k (Foil) | London 2018//176004649
+Sticker | s1mple (Foil) | Berlin 2019//176079830
 Sticker | s1mple (Foil) | Boston 2018//175945366
 Sticker | s1mple (Foil) | Katowice 2019//176036651
 Sticker | s1mple (Foil) | Krakow 2017//175905887
@@ -10096,20 +10193,24 @@ Sticker | sdy (Foil) | London 2018//176004589
 Sticker | sdy (Gold) | Paris 2023//176371889
 Sticker | sdy (Gold) | Rio 2022//176339776
 Sticker | sdy (Holo) | Paris 2023//176372129
+Sticker | sdy | London 2018//176004640
 Sticker | sdy | Rio 2022//176339580
 Sticker | seang@res | Boston 2018//175945310
 Sticker | seang@res | Cologne 2015//61699157
 Sticker | Seeing Red (Foil)//176262743
 Sticker | Seeing Red//176262640
+Sticker | seized | Atlanta 2017//175865615
 Sticker | SENER1 (Holo) | Antwerp 2022//176312355
 Sticker | sense (Glitter) | Copenhagen 2024//176420866
 Sticker | sense (Holo) | Copenhagen 2024//176420944
+Sticker | Senzu (Gold) | Austin 2025//176516871
 Sticker | Senzu (Holo) | Copenhagen 2024//176420962
 Sticker | Separate Pixels//176091773
 Sticker | sergej | Berlin 2019//176079799
 Sticker | sh1ro (Glitter) | Antwerp 2022//176312274
 Sticker | sh1ro (Glitter) | Rio 2022//176339835
 Sticker | sh1ro (Gold) | Antwerp 2022//176312281
+Sticker | sh1ro (Gold) | Rio 2022//176339947
 Sticker | sh1ro (Gold) | Stockholm 2021//176274645
 Sticker | sh1ro (Holo) | Antwerp 2022//176312335
 Sticker | sh1ro (Holo) | Copenhagen 2024//176420524
@@ -10157,6 +10258,7 @@ Sticker | Silver//176020996
 Sticker | sinnopsyy (Gold) | Antwerp 2022//176312494
 Sticker | sinnopsyy (Holo) | Paris 2023//176372111
 Sticker | siuhy (Gold) | Paris 2023//176372071
+Sticker | siuhy (Gold) | Rio 2022//176340044
 Sticker | siuhy (Holo) | Paris 2023//176372120
 Sticker | SIXER | Atlanta 2017//175865637
 Sticker | SIXER | Boston 2018//175945371
@@ -10170,6 +10272,7 @@ Sticker | sjuush (Holo) | Stockholm 2021//176274590
 Sticker | SK Gaming (Foil) | Boston 2018//175945146
 Sticker | SK Gaming (Holo) | Atlanta 2017//175865555
 Sticker | SK Gaming (Holo) | Cologne 2016//157485775
+Sticker | SK Gaming (Holo) | Krakow 2017//175905861
 Sticker | SK Gaming | Atlanta 2017//175865567
 Sticker | SK Gaming | Boston 2018//175945133
 Sticker | SK Gaming | Cologne 2016//157485780
@@ -10183,6 +10286,7 @@ Sticker | Skull Troop//45409221
 Sticker | skullz (Gold) | Paris 2023//176372174
 Sticker | SmithZz | Atlanta 2017//175865681
 Sticker | SmithZz | Cluj-Napoca 2015//75982381
+Sticker | SmithZz | Cologne 2015//61699309
 Sticker | SmithZz | London 2018//176004358
 Sticker | smooya (Foil) | Katowice 2019//176036714
 Sticker | smooya | Katowice 2019//176036541
@@ -10200,6 +10304,7 @@ Sticker | Snax | Cluj-Napoca 2015//75982372
 Sticker | Snax | Copenhagen 2024//176420669
 Sticker | Snax | Krakow 2017//175905922
 Sticker | Snax | London 2018//176004461
+Sticker | snow (Gold) | Austin 2025//176517005
 Sticker | Snowfall (Glitter)//176358758
 Sticker | somebody (Foil) | Berlin 2019//176079975
 Sticker | somebody | Katowice 2019//176036742
@@ -10218,6 +10323,7 @@ Sticker | Spinx (Gold, Champion) | Paris 2023//176375829
 Sticker | Spinx (Gold) | Antwerp 2022//176312492
 Sticker | Spinx (Gold) | Copenhagen 2024//176420959
 Sticker | Spinx (Gold) | Paris 2023//176372161
+Sticker | Spinx (Gold) | Rio 2022//176339905
 Sticker | Spinx (Holo) | Antwerp 2022//176312594
 Sticker | Spinx (Holo) | Paris 2023//176371914
 Sticker | Spirit (Foil) | 2020 RMR//176222775
@@ -10241,14 +10347,17 @@ Sticker | Stalking Prey//176209312
 Sticker | Stan (Holo)//170165296
 Sticker | Stan//170165271
 Sticker | stanislaw | Berlin 2019//176079774
+Sticker | stanislaw | Cologne 2016//157485934
 Sticker | stanislaw | Katowice 2019//176036733
 Sticker | StarLadder (Holo) | Berlin 2019//176079715
 Sticker | Starry (Glitter) | Copenhagen 2024//176420750
+Sticker | Starry (Gold) | Copenhagen 2024//176421003
 Sticker | Starry (Holo) | Copenhagen 2024//176420871
 Sticker | stavn (Gold) | Paris 2023//176372165
 Sticker | stavn (Gold) | Stockholm 2021//176274638
 Sticker | stavn (Holo) | Antwerp 2022//176312121
 Sticker | stavn (Holo) | Stockholm 2021//176274599
+Sticker | steel (Foil) | Krakow 2017//175905787
 Sticker | steel | Krakow 2017//175905945
 Sticker | sterling (Foil) | Katowice 2019//176036732
 Sticker | Stewie2K (Foil) | Katowice 2019//176036798
@@ -10300,9 +10409,11 @@ Sticker | TACO | MLG Columbus 2016//144424205
 Sticker | Tamara (Holo)//170165289
 Sticker | tarik (Foil) | Berlin 2019//176079839
 Sticker | tarik (Foil) | Boston 2018//175945362
+Sticker | tarik (Foil) | Cluj-Napoca 2015//75982455
 Sticker | tarik (Foil) | London 2018//176004446
 Sticker | tarik | Berlin 2019//176079738
 Sticker | tarik | Boston 2018//175945160
+Sticker | tarik | Cologne 2015//61699305
 Sticker | TaZ (Foil) | Boston 2018//175945407
 Sticker | TaZ (Foil) | Krakow 2017//175906004
 Sticker | TaZ | Cologne 2015//61699201
@@ -10313,10 +10424,12 @@ Sticker | Team Dignitas (Holo) | Cologne 2014//17080533
 Sticker | Team Dignitas (Holo) | Cologne 2016//157485791
 Sticker | Team Dignitas | Cluj-Napoca 2015//75982513
 Sticker | Team Dignitas | Cologne 2014//17080541
+Sticker | Team Dignitas | Cologne 2016//157485963
 Sticker | Team Dignitas | DreamHack 2014//24668022
 Sticker | Team eBettle (Foil) | Cologne 2015//61699188
 Sticker | Team eBettle | Cologne 2015//61705627
 Sticker | Team EnVyUs (Foil) | Boston 2018//175945379
+Sticker | Team EnVyUs (Foil) | Cologne 2015//61699169
 Sticker | Team EnVyUs (Foil) | Katowice 2015//33771348
 Sticker | Team EnVyUs (Foil) | MLG Columbus 2016//144424352
 Sticker | Team EnVyUs (Holo) | Atlanta 2017//175865590
@@ -10332,6 +10445,7 @@ Sticker | Team Immunity | Cologne 2015//61699361
 Sticker | Team Kinguin | Cologne 2015//61699251
 Sticker | Team LDLC.com | Cologne 2014//17080537
 Sticker | Team LDLC.com | DreamHack 2014//24668026
+Sticker | Team Liquid (Foil) | Boston 2018//175945509
 Sticker | Team Liquid (Foil) | Cologne 2016//157485776
 Sticker | Team Liquid (Foil) | Katowice 2019//176036650
 Sticker | Team Liquid (Foil) | Stockholm 2021//176269967
@@ -10344,6 +10458,7 @@ Sticker | Team Liquid (Holo) | Atlanta 2017//175865585
 Sticker | Team Liquid (Holo) | Cologne 2016//157485830
 Sticker | Team Liquid (Holo) | Katowice 2019//176036642
 Sticker | Team Liquid (Holo) | London 2018//176004577
+Sticker | Team Liquid (Holo) | MLG Columbus 2016//144424251
 Sticker | Team Liquid (Holo) | Paris 2023//176371646
 Sticker | Team Liquid (Holo) | Rio 2022//176339513
 Sticker | Team Liquid (Holo) | Stockholm 2021//176269947
@@ -10374,6 +10489,7 @@ Sticker | Teamwork (Holo)//8988689
 Sticker | Techno4K (Gold) | Paris 2023//176371908
 Sticker | Techno4K (Holo) | Antwerp 2022//176312367
 Sticker | Ten Years (Foil)//176327089
+Sticker | TENZKI | Cologne 2016//157485994
 Sticker | Terror Rice//175922251
 Sticker | Terrorist-Tech//176096400
 Sticker | TeSeS (Glitter) | Copenhagen 2024//176420809
@@ -10388,8 +10504,10 @@ Sticker | The Fragger//84510740
 Sticker | The Guru//45416147
 Sticker | The Leader//84510753
 Sticker | The Lurker//84510760
+Sticker | The Mongolz (Gold) | Austin 2025//176516638
 Sticker | The MongolZ (Gold) | Copenhagen 2024//176420603
 Sticker | The MongolZ (Gold) | Paris 2023//176371820
+Sticker | The MongolZ (Gold) | Shanghai 2024//176474996
 Sticker | The MongolZ (Holo) | Copenhagen 2024//176420699
 Sticker | The Pro (Foil)//170167797
 Sticker | The Real MVP (Foil)//176290513
@@ -10454,6 +10572,7 @@ Sticker | TYLOO | 2020 RMR//176222738
 Sticker | Tyloo | Boston 2018//175945169
 Sticker | Tyloo | Katowice 2019//176036602
 Sticker | Tyloo | London 2018//176004593
+Sticker | ultimate (Gold) | Shanghai 2024//176475435
 Sticker | Ultraviolet Poison Frog (Foil)//176262976
 Sticker | Unicorn (Holo)//45409214
 Sticker | USTILO | Boston 2018//175945375
@@ -10522,6 +10641,7 @@ Sticker | Vitality (Foil) | Stockholm 2021//176269980
 Sticker | Vitality (Glitter) | Antwerp 2022//176312092
 Sticker | Vitality (Gold) | 2020 RMR//176222783
 Sticker | Vitality (Gold) | Antwerp 2022//176312468
+Sticker | Vitality (Gold) | Austin 2025//176516593
 Sticker | Vitality (Gold) | Copenhagen 2024//176420607
 Sticker | Vitality (Gold) | Paris 2023//176371706
 Sticker | Vitality (Gold) | Stockholm 2021//176270031
@@ -10548,6 +10668,7 @@ Sticker | Watermelon Strafe (Holo)//176262845
 Sticker | Watermelon Tier6 (Holo)//176262886
 Sticker | wayLander (Foil) | Boston 2018//175945268
 Sticker | wayLander (Foil) | Katowice 2019//176036792
+Sticker | wayLander (Foil) | Krakow 2017//175906029
 Sticker | wayLander | Krakow 2017//175905786
 Sticker | Welcome to the Clutch//7320980
 Sticker | westmelon (Holo) | Copenhagen 2024//176420797
@@ -10571,11 +10692,14 @@ Sticker | WorldEdit | Krakow 2017//175905881
 Sticker | Woro2k (Gold) | Paris 2023//176372196
 Sticker | woxic (Foil) | Berlin 2019//176079791
 Sticker | woxic (Foil) | Katowice 2019//176036779
+Sticker | woxic (Foil) | London 2018//176004506
 Sticker | woxic (Glitter) | Copenhagen 2024//176420505
+Sticker | woxic (Gold) | Copenhagen 2024//176421009
 Sticker | woxic | Berlin 2019//176079935
 Sticker | woxic | Katowice 2019//176036571
 Sticker | xand (Foil) | Berlin 2019//176079888
 Sticker | xand | Berlin 2019//176079815
+Sticker | XANTARES (Foil) | London 2018//176004410
 Sticker | XANTARES (Gold) | Copenhagen 2024//176420864
 Sticker | XANTARES (Holo) | Copenhagen 2024//176420898
 Sticker | XANTARES | Boston 2018//175945164
@@ -10622,12 +10746,14 @@ Sticker | yuurih (Foil) | Katowice 2019//176036751
 Sticker | yuurih (Glitter) | Copenhagen 2024//176420880
 Sticker | yuurih (Gold) | Antwerp 2022//176312427
 Sticker | yuurih (Gold) | Paris 2023//176372017
+Sticker | yuurih (Gold) | Stockholm 2021//176274627
 Sticker | yuurih (Holo) | Copenhagen 2024//176420926
 Sticker | yuurih (Holo) | Paris 2023//176371940
 Sticker | yuurih (Holo) | Stockholm 2021//176274564
 Sticker | yuurih | Berlin 2019//176079764
 Sticker | yuurih | Katowice 2019//176036811
 Sticker | z4KR (Glitter) | Copenhagen 2024//176420629
+Sticker | z4KR (Gold) | Copenhagen 2024//176420967
 Sticker | z4KR | Copenhagen 2024//176420602
 Sticker | zehN (Foil) | Krakow 2017//175905983
 Sticker | zehN | Krakow 2017//175905790
@@ -10659,6 +10785,7 @@ Sticker | ZywOo (Gold) | Paris 2023//176372025
 Sticker | ZywOo (Gold) | Stockholm 2021//176274651
 Sticker | ZywOo (Holo, Champion) | Paris 2023//176375827
 Sticker | ZywOo (Holo) | Antwerp 2022//176312459
+Sticker | ZywOo (Holo) | Austin 2025//176516596
 Sticker | ZywOo (Holo) | Copenhagen 2024//176420853
 Sticker | ZywOo (Holo) | Paris 2023//176372007
 Sticker | ZywOo (Holo) | Stockholm 2021//176274562
@@ -10671,6 +10798,7 @@ Stockholm 2021 Challengers Sticker Capsule//176272161
 Stockholm 2021 Contenders Patch Pack//176272160
 Stockholm 2021 Contenders Sticker Capsule//176272159
 Stockholm 2021 Dust II Souvenir Package//176273439
+Stockholm 2021 Inferno Souvenir Package//176273233
 Stockholm 2021 Legends Patch Pack//176272163
 Stockholm 2021 Legends Sticker Capsule//176272156
 Stockholm 2021 Mirage Souvenir Package//176273437
@@ -11188,6 +11316,12 @@ XM1014 | Ziggy (Minimal Wear)//175917264
 XM1014 | Zombie Offensive (Battle-Scarred)//176288616
 XM1014 | Zombie Offensive (Factory New)//176288514
 XM1014 | Zombie Offensive (Field-Tested)//176288502
+Zeus x27 | Charged Up (Factory New)//176506314
+Zeus x27 | Charged Up (Minimal Wear)//176506151
+Zeus x27 | Dragon Snore (Battle-Scarred)//176460885
+Zeus x27 | Dragon Snore (Field-Tested)//176460621
+Zeus x27 | Dragon Snore (Minimal Wear)//176460943
+Zeus x27 | Dragon Snore (Well-Worn)//176461267
 Zeus x27 | Olympus (Battle-Scarred)//176414160
 Zeus x27 | Olympus (Factory New)//176414117
 Zeus x27 | Olympus (Field-Tested)//176414067

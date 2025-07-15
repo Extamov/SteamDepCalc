@@ -1,12 +1,12 @@
-from subprocess import check_output, CalledProcessError
+import subprocess
 import sys
 import hashlib
 from Cryptodome.Cipher import AES
 
 def _read_cmd(cmd):
     try:
-        return str(check_output(cmd), "utf-8")
-    except CalledProcessError:
+        return str(subprocess.check_output(cmd), "utf-8")
+    except subprocess.CalledProcessError:
         return None
 
 def _read_reg(path, key_name):
@@ -42,9 +42,14 @@ def _get_special_id():
 
 def system_encrypt(data: bytes):
     special_id = _get_special_id()
-    cipher = AES.new(special_id, AES.MODE_CTR)
-    return cipher.nonce + cipher.encrypt(data)
+    cipher = AES.new(special_id, AES.MODE_GCM)
+    ciphertext, tag = cipher.encrypt_and_digest(data)
+    return cipher.nonce + tag + ciphertext
 
 def system_decrypt(data: bytes):
     special_id = _get_special_id()
-    return AES.new(special_id, AES.MODE_CTR, nonce=data[:8]).decrypt(data[8:])
+    cipher = AES.new(special_id, AES.MODE_GCM, nonce=data[:16])
+    try:
+        return cipher.decrypt_and_verify(data[32:], data[16:32])
+    except ValueError:
+        return None

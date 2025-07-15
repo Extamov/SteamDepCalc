@@ -4,14 +4,14 @@ import re
 import os
 import sys
 import shutil
-from os.path import join, isfile
-from time import time, sleep
-from urllib.parse import quote
-from tabulate import tabulate
+import os.path
+import time
+import urllib.parse
+import tabulate
+import importlib
 from .connection import Connection
 from .currencies import CURRENCIES, currency_string
 from .essential import app_path, set_terminal_title
-from importlib import resources
 
 async def main():
     print("Steam Wallet Deposit Calculator")
@@ -35,11 +35,11 @@ async def main():
             pass
 
     preset = 0
-    presets = [[1, 12, 14, 11, 8, 9, 18, 19, 20], [10], [5, 6, 7, 4, 3, 2, 13]]
+    presets = [["Keys", "Other", "Keychains"], ["Sticker"], ["Knives", "Pistols", "SMGs", "Assault Rifles", "Sniper Rifles", "Shotguns", "Machineguns", "Gloves"]]
     while preset not in [1, 2, 3]:
-        print("[1]: All skins except guns and stickers [Fast]")
-        print("[2]: All skins except guns [Regular]")
-        print("[3]: All skins [Very slow]")
+        print("[1]: Fetch keys and others [Very fast]")
+        print("[2]: Fetch keys, others and stickers [Fast]")
+        print("[3]: Fetch keys, others, stickers and guns [Very slow]")
         try:
             preset = int(input("Select preset:").strip())
         except ValueError:
@@ -55,33 +55,31 @@ async def main():
 
     connection = Connection()
 
-    await connection.steam_auto_auth()
-    connection.save_steam_cookie()
+    connection.load_cookies()
+    await connection.steam_auth()
+    connection.save_cookies()
 
-    # =================================== cs.money items fetch ===================================
+    # =================================== CS.MONEY items fetch ===================================
 
     new_data = {}
 
-    i = 0
-    while True:
-        t1 = time()
-        set_terminal_title(f"Fetching cs.money prices: #{i}")
-        data = json.loads(await connection.get_text("https://cs.money/5.0/load_bots_inventory/730", params={
-            "hasTradeLock": "false",
-            "limit": 60,
-            "minPrice": min_price,
-            "maxPrice": max_price,
-            "offset": i*60,
-            "order": "asc",
-            "sort": "price",
-            "type": item_types,
-        }))
+    for item_type in item_types:
+        current_price = min_price
+        while max_price > current_price:
+            set_terminal_title(f"Fetching items from CS.MONEY {item_type} - ${current_price}")
+            page_data = (await connection.get("https://cs.money/csgo/trade/", params={
+                "hasTradeLock": "false",
+                "minPrice": current_price,
+                "maxPrice": max_price,
+                "order": "asc",
+                "sort": "price",
+                "type": item_type,
+            })).text
 
-        if ("error" in data) and (data["error"] == 2):
-            break
+            page_data = json.loads(re.findall(r'<script id="__NEXT_DATA__" type="application/json" crossorigin="anonymous">([^<]+)</script>', page_data)[0])
+            items = page_data["props"]["pageProps"]["botInitData"]["skinsInfo"]["skins"]
 
-        if "items" in data:
-            for item in data["items"]:
+            for item in items:
                 item_name = item["fullName"]
                 item_price = item["price"]
 
@@ -91,23 +89,22 @@ async def main():
 
                 if (item_name not in new_data) or (item_price < new_data[item_name]["price"]):
                     new_data[item_name] = { "name": item_name, "price": item_price }
-        elif ("error" in data) and (data["error"] == 429):
-            print("ERROR: Got rate-limited, retrying after a minute...")
-            await asyncio.sleep(65)
-            continue
-        else:
-            raise ValueError(json.dumps(data))
 
-        i += 1
-        wait_time = 4 - (time() - t1)
-        await asyncio.sleep(wait_time)
+            if len(items) < 60:
+                break
+
+            current_price = items[-1]["price"]
+            if items[-1]["price"] <= items[0]["price"]:
+                current_price += 0.0078125
+
+            await asyncio.sleep(1.3)
 
     # =================================== steam item id fetch ===================================
 
-    id_list_path = join(app_path(), "steam_id_data")
+    id_list_path = os.path.join(app_path(), "steam_id_data")
 
-    if not isfile(id_list_path):
-        shutil.copyfile(join(resources.files("steamdepcalc"), "default_steam_id_data.txt"), id_list_path)
+    if not os.path.isfile(id_list_path):
+        shutil.copyfile(os.path.join(importlib.resources.files("steamdepcalc"), "default_steam_id_data.txt"), id_list_path)
 
     item_id_hashtable = {}
     with open(id_list_path, "r", encoding="utf-8") as f:
@@ -117,12 +114,12 @@ async def main():
 
     i = 0
     for item in new_data.values():
-        set_terminal_title(f"Fetching steam item ids: {i}/{len(new_data)}")
+        set_terminal_title(f"Fetching item ids from Steam {i}/{len(new_data)}")
 
         if item["name"] not in item_id_hashtable:
-            initial_metadata = await connection.get_text(f"https://steamcommunity.com/market/listings/730/{quote(item['name'], safe='')}", headers={
+            initial_metadata = (await connection.get(f"https://steamcommunity.com/market/listings/730/{urllib.parse.quote(item['name'], safe='')}", headers={
                 "Referer": "https://steamcommunity.com/market/search?q=",
-            })
+            })).text
 
             try:
                 item_steam_id = re.findall(r"Market_LoadOrderSpread\( (\d+?) \);", initial_metadata)[0]
@@ -147,19 +144,19 @@ async def main():
         if "id" not in item:
             continue
 
-        t1 = time()
-        set_terminal_title(f"Fetching steam prices: {i}/{len(new_data)}")
+        t1 = time.time()
+        set_terminal_title(f"Fetching items from Steam {i}/{len(new_data)}")
 
-        data = json.loads(await connection.get_text("https://steamcommunity.com/market/itemordershistogram", params={
+        data = (await connection.get("https://steamcommunity.com/market/itemordershistogram", params={
             "country": currency[:2],
             "language": "english",
             "currency": CURRENCIES[currency]["id"],
             "item_nameid": item["id"],
             "two_factor": 0,
         }, headers={
-            "Referer": f"https://steamcommunity.com/market/listings/730/{quote(item['name'], safe='')}",
+            "Referer": f"https://steamcommunity.com/market/listings/730/{urllib.parse.quote(item['name'], safe='')}",
             "X-Requested-With": "XMLHttpRequest",
-        }))
+        })).json()
 
         if "buy_order_graph" not in data or len(data["buy_order_graph"]) == 0 or len(data["buy_order_graph"][0]) == 0:
             print(f"Error: Failed to fetch item price market of '{item['name']}'")
@@ -175,27 +172,22 @@ async def main():
             item["ratio"] = round(steam_price / item["price"], 2)
             final_res.append(item)
 
-        wait_time = 0.9 - (time() - t1)
+        wait_time = 0.9 - (time.time() - t1)
         if wait_time > 0:
             await asyncio.sleep(wait_time)
         i += 1
 
     # ================================ calculation results print ================================
 
+    connection.save_cookies()
     await connection.close()
 
     final_res.sort(key=lambda x: x["ratio"], reverse=True)
 
     table = [["Name", "Buy", "Sell", "Get", "Ratio"], *[[item["name"], f'${item["price"]:.2f}', currency_string(item["taxless_steam_price"], currency), currency_string(item["steam_price"], currency), f'{currency_string(item["ratio"], currency)}/$'] for item in final_res]]
 
-    beautiful_table = tabulate(table[:17], headers='firstrow', tablefmt='fancy_grid', numalign="left")
-    full_beautiful_table = tabulate(table, headers='firstrow', tablefmt='fancy_grid', numalign="left")
-
-    os.system("clear" if os.name == "posix" else "cls")
-    # os.system(f"mode con: cols={beautiful_table.index('╕') + 1} lines={len(table[:17])*2 + 2}")
+    beautiful_table = tabulate.tabulate(table[:17], headers='firstrow', tablefmt='fancy_grid', numalign="left")
     set_terminal_title("Steam skins conversion table results")
-    with open("results.log", "w", encoding="utf-8") as f:
-        f.write(full_beautiful_table)
     print(beautiful_table)
 
 def entrypoint():

@@ -101,16 +101,17 @@ async def main():
 
     # =================================== steam item id fetch ===================================
 
-    id_list_path = os.path.join(app_path(), "steam_id_data")
-
-    if not os.path.isfile(id_list_path):
-        shutil.copyfile(os.path.join(importlib.resources.files("steamdepcalc"), "default_steam_id_data.txt"), id_list_path)
-
     item_id_hashtable = {}
-    with open(id_list_path, "r", encoding="utf-8") as f:
-        id_list_data = [x.split("//") for x in f.read().split("\n")]
-        for steam_item in id_list_data:
-            item_id_hashtable[steam_item[0]] = steam_item[1]
+
+    default_id_list_path = os.path.join(importlib.resources.files("steamdepcalc"), "default_steam_id_data.txt")
+    app_id_list_path = os.path.join(app_path(), "steam_id_data")
+
+    for id_list_path in [default_id_list_path, app_id_list_path]:
+        if os.path.isfile(id_list_path):
+            with open(id_list_path, "r", encoding="utf-8") as f:
+                id_list_data = [x.split("//") for x in f.read().split("\n")]
+                for steam_item in id_list_data:
+                    item_id_hashtable[steam_item[0]] = steam_item[1]
 
     i = 0
     for item in new_data.values():
@@ -122,7 +123,7 @@ async def main():
             })).text
 
             try:
-                item_steam_id = re.findall(r"Market_LoadOrderSpread\( (\d+?) \);", initial_metadata)[0]
+                item_steam_id = re.findall(r"Market_LoadOrderSpread\( ?(\d+) ?\);", initial_metadata)[0]
             except IndexError:
                 print(f"Error: Failed to fetch id of '{item['name']}'")
                 continue
@@ -132,7 +133,7 @@ async def main():
         item["id"] = item_id_hashtable[item["name"]]
         i += 1
 
-    with open(id_list_path, "w", encoding="utf-8") as f:
+    with open(app_id_list_path, "w", encoding="utf-8") as f:
         f.write("\n".join(["//".join(x) for x in item_id_hashtable.items()]))
 
     # ================================== steam item price fetch ==================================

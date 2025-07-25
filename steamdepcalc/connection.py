@@ -105,7 +105,13 @@ class Connection:
                 return await self.request(
                     method, url, params, data, json, headers, _retry_count
                 )
-            if response.status_code != 200 and response.status_code != 302 and raise_for_status:
+            if response.status_code in (502, 503, 504):
+                print(f"ERROR: Got status code {response.status_code}, retrying in 5 seconds")
+                await asyncio.sleep(5)
+                return await self.request(
+                    method, url, params, data, json, headers, _retry_count
+                )
+            if response.status_code not in (200, 302) and raise_for_status:
                 raise curl_cffi.exceptions.RequestException(f'Got status code {response.status_code} while fetching "{url}"')
             return response
         except curl_cffi.exceptions.ConnectionError as e:
